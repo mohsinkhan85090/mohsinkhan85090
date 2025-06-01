@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Mohsin Khan
 
-![Profile Image](https://avatars.githubusercontent.com/u/181819378?v=4)  <!-- Replace with your GitHub profile image URL -->
-
 🎓 Artificial Intelligence & Machine Learning student | 💻 Aspiring Software Developer | ☁️ Passionate about Cloud & AI Technologies
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohsin%20Khan-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mohsin-khan-b78710308)
