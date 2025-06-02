@@ -68,4 +68,4 @@ Web development mini-projects built during internship with HTML, CSS, and Bootst
 ---
 
 > *“Code flows like breath, logic aligns like posture — every step is AI in motion.”*  
-> – Mohsin Khan’s exclusive tagline
+
