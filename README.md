@@ -2,7 +2,7 @@
 
 🎓 Artificial Intelligence & Machine Learning student | 💻 Aspiring Software Developer | ☁️ Passionate about Cloud & AI Technologies
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohsin%20Khan-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mohsin-khan-b78710308)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohsin%20Khan-blue?logo=linkedin&style=flat-square)](https://leetcode.com/u/mohsin85090/)
 [![GitHub followers](https://img.shields.io/github/followers/mohsinkhan85090?label=Follow&style=social)](https://github.com/mohsinkhan85090)
 [![HackerRank](https://img.shields.io/badge/HackerRank-4★-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mohsinkhan85090)
 [![LeetCode](https://img.shields.io/badge/LeetCode-3_Badges%20%7C%201600%2B_Rating-yellow?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/mohsinkhan85090)
