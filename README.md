@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohsin%20Khan-blue?logo=linkedin&style=flat-square)](https://leetcode.com/u/mohsin85090/)
 [![GitHub followers](https://img.shields.io/github/followers/mohsinkhan85090?label=Follow&style=social)](https://github.com/mohsinkhan85090)
 [![HackerRank](https://img.shields.io/badge/HackerRank-4★-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mohsinkhan85090)
-[![LeetCode](https://img.shields.io/badge/LeetCode-3_Badges%20%7C%201600%2B_Rating-yellow?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/mohsinkhan85090)
+[![LeetCode](https://img.shields.io/badge/LeetCode-3_Badges%20%7C%201600%2B_Rating-yellow?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/mohsin85090/)
 
 I’m a self-driven and curious developer currently pursuing my degree while building real-world AI and web projects. From detecting phishing threats with machine learning to developing smart Chrome extensions and yoga posture recognition systems — I love exploring how technology solves problems.
 
