@@ -17,7 +17,7 @@ Currently covering topics like **Binary Search**, with more to come (e.g., Slidi
 `Java` | `DSA Patterns` | `LeetCode Problems`
 
 [![Repo](https://img.shields.io/badge/DSA%20Solutions-Java%20%7C%20LeetCode-blueviolet?style=flat-square&logo=java)](https://github.com/mohsinkhan85090/DSA-Solutions)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1600%2B_Rating-yellow?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/mohsin85090/)
+
 
 ## 🚀 Projects
 
