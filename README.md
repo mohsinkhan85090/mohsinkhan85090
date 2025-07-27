@@ -2,9 +2,9 @@
 
 🎓 Artificial Intelligence & Machine Learning student | 💻 Aspiring Software Developer | ☁️ Passionate about Cloud & AI Technologies
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohsin%20Khan-blue?logo=linkedin&style=flat-square)](https://leetcode.com/u/mohsin85090/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohsin%20Khan-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mohsin-khan-aiml/)
 [![GitHub followers](https://img.shields.io/github/followers/mohsinkhan85090?label=Follow&style=social)](https://github.com/mohsinkhan85090)
-[![HackerRank](https://img.shields.io/badge/HackerRank-4★-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mohsinkhan85090)
+[![HackerRank](https://img.shields.io/badge/HackerRank-4★-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/2k23_psitaiml237)
 [![LeetCode](https://img.shields.io/badge/LeetCode-3_Badges%20%7C%201600%2B_Rating-yellow?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/mohsin85090/)
 
 I’m a self-driven and curious developer currently pursuing my degree while building real-world AI and web projects. From detecting phishing threats with machine learning to developing smart Chrome extensions and yoga posture recognition systems — I love exploring how technology solves problems.
@@ -17,7 +17,6 @@ Currently covering topics like **Binary Search**, with more to come (e.g., Slidi
 `Java` | `DSA Patterns` | `LeetCode Problems`
 
 [![Repo](https://img.shields.io/badge/DSA%20Solutions-Java%20%7C%20LeetCode-blueviolet?style=flat-square&logo=java)](https://github.com/mohsinkhan85090/DSA-Java-Solutions)
-
 
 
 ## 🚀 Projects
