@@ -16,7 +16,7 @@ Each problem includes the description, example inputs/outputs, and a clean expla
 Currently covering topics like **Binary Search**, with more to come (e.g., Sliding Window, Recursion, Graphs).  
 `Java` | `DSA Patterns` | `LeetCode Problems`
 
-[![Repo](https://img.shields.io/badge/DSA%20Solutions-Java%20%7C%20LeetCode-blueviolet?style=flat-square&logo=java)](https://github.com/mohsinkhan85090/DSA-Java-Solutions)
+[![Repo](https://img.shields.io/badge/DSA%20Solutions-Java%20%7C%20LeetCode-blueviolet?style=flat-square&logo=java)](https://github.com/mohsinkhan85090/DSA-Solutions)
 
 
 ## 🚀 Projects
