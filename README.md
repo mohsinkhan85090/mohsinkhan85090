@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohsin Khan
+# Hi, I'm Mohsin Khan
 
 🎓 Artificial Intelligence & Machine Learning student | 💻 Aspiring Software Developer | ☁️ Passionate about Cloud & AI Technologies
 
