@@ -21,7 +21,7 @@ Currently covering topics like **Binary Search**, with more to come (e.g., Slidi
 
 ## 🚀 Projects
 
-### 🔹 [Legal Chatbot AI](https://github.com/mohsinkhan85090/Legal-Chatbot-AI)  
+### 🔹 [Legal Chatbot](https://github.com/mohsinkhan85090/Legal-Chatbot-AI)  
 AI-powered legal advisor for Indian laws, built with **Flask**, **Firestore**, and **RAG (Gemini API)** for instant, scenario-based legal guidance.  
 `Python` | `Flask` | `Firestore` | `AI` | `RAG`
 
