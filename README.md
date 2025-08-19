@@ -10,7 +10,7 @@
 I’m a self-driven and curious developer currently pursuing my degree while building real-world AI and web projects. From detecting phishing threats with machine learning to developing smart Chrome extension and yoga posture recognition systems — I love exploring how technology solves problems.
 
 ---
-### 🔹 [📈 DSA Java Solutions](https://github.com/mohsinkhan85090/DSA-Solutions)  
+###  [📈 DSA Java Solutions](https://github.com/mohsinkhan85090/DSA-Solutions)  
 A personal collection of **Data Structures & Algorithms** problems solved in Java.  
 Each problem includes the description, example inputs/outputs, and a clean explanation.  
 Currently covering topics like **Binary Search**, with more to come (e.g., Sliding Window, Recursion, Graphs).  
