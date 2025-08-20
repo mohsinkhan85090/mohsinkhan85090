@@ -79,7 +79,7 @@ I’m currently building real-world AI and web projects, exploring technologies 
   <tr>
     <td>
 <p align="center">
-  <img align="center" src="https://readme-stats.clckblog.space/api/top-langs?username=mohsinkhan85090&langs_count=12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mohsinkhan85090" />
+  
 </p>
     </td>
     <td>
