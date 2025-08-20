@@ -17,17 +17,45 @@ I’m currently building real-world AI and web projects, exploring technologies 
 ---
 
 ## Languages & Tools
+<br>
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-000000?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="center"> 
+
+<img src="https://img.shields.io/badge/-JavaScript-233233?style=flat-square&logo=javascript&logoColor=23F7DF1E">
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=Python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/-React-232023?style=flat-square&logo=react&logoColor=61DBFB">
+<img src="https://img.shields.io/badge/-java-orange?style=flat-square&logo=Java">
+<img src="https://img.shields.io/badge/-C++-044F88?style=flat-square&logo=c%2B%2B">
+<img src="https://img.shields.io/badge/-C-1A4674?style=flat-square&logo=c">
+<img src="https://img.shields.io/badge/-npm-darkred?style=flat-square&logo=npm">
+<img src="https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io">
+<img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask">
+<img src="https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv">
+<img src="https://img.shields.io/badge/-HTML5-E34C26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/-CSS3-264DE4?style=flat-square&logo=css3">
+<img src="https://img.shields.io/badge/-Bootstrap-563d7c?style=flat-square&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-MUI-blue?style=flat-square&logo=mui&logoColor=white">
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb">
+<img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"> -->
+<img src="https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql">
+<img src="https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku&logoColor=white">
+<img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white">
+<img src="https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker">
+<img src="https://img.shields.io/badge/-Digital%20Ocean-black?style=flat-square&logo=digitalocean">
+<img src="https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase"> -->
+<img src="https://img.shields.io/badge/-Git-darkred?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github">
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
+<img src="https://img.shields.io/badge/-Canva-01C2CC?style=flat-square&logo=Canva&logoColor=white">
+<img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/Scrimba-2B283A?style=flat-square&logo=scrimba&logoColor=white">
+<img src="https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=flat-square&logo=apple&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white">
+
 
 ---
 
