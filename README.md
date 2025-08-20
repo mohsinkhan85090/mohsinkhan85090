@@ -106,10 +106,11 @@ I’m currently building real-world AI and web projects, exploring technologies 
 
 <!-- Snake Animation -->
 <div align="center">
-  <a href="https://mohsinkhan85090.github.io/">
-    <img src="https://raw.githubusercontent.com/mohsinkhan85090/mohsinkhan85090/output/snake.svg" alt="Snake animation" />
-  </a>
+
+![Snake animation](https://raw.githubusercontent.com/mohsinkhan85090/mohsinkhan85090/output/snake.svg)
+
 </div>
+
 
 ---
 
