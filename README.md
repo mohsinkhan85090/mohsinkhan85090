@@ -16,7 +16,6 @@ I’m currently building real-world AI and web projects, exploring technologies 
 
 ---
 
-## Languages & Tools
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -70,10 +69,47 @@ I’m currently building real-world AI and web projects, exploring technologies 
 | **Phishing Detection** | ML tool for phishing URL detection & classification | Python, Machine Learning |
 
 ---
+</p>
 
-## GitHub Stats
+<h3 align="left">📊 GitHub Statistics:</h3>
+<br><br>
 
-![Mohsin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohsinkhan85090&show_icons=true&theme=radical)
+<div align="center">
+<table align="center">
+  <tr>
+    <td>
+<p align="center">
+  <img align="center" src="https://readme-stats.clckblog.space/api/top-langs?username=mohsinkhan85090&langs_count=12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mohsinkhan85090" />
+</p>
+    </td>
+    <td>
+<p align="center">
+  &nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohsinkhan85090&theme=tokyonight" alt="mohsinkhan85090" />
+</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p align="center">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinkhan85090&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="mohsinkhan85090" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p align="center">
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohsinkhan85090&theme=tokyonight" alt="mohsinkhan85090" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- Snake Animation -->
+<div align="center">
+  <a href="https://mohsinkhan85090.github.io/">
+    <img src="https://raw.githubusercontent.com/mohsinkhan85090/mohsinkhan85090/output/snake.svg" alt="Snake animation" />
+  </a>
+</div>
 
 ---
 
