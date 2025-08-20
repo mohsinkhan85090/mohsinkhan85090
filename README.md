@@ -78,8 +78,6 @@ I’m currently building real-world AI and web projects, exploring technologies 
 <table align="center">
   <tr>
     <td>
-<p align="center">
-  
 </p>
     </td>
     <td>
@@ -116,7 +114,8 @@ I’m currently building real-world AI and web projects, exploring technologies 
 
 ## Contributions in the last year
 
-![Mohsin's GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=mohsinkhan85090&theme=react-dark)
+![Mohsin's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=mohsinkhan85090&theme=react-dark)
+
 
 ---
 
