@@ -119,7 +119,7 @@ I’m a self-driven and curious developer currently pursuing my degree while bui
   
 </p>
 
----
+
 
 ###  [📈 DSA Java Solutions](https://github.com/mohsinkhan85090/DSA-Solutions)  
 A personal collection of *Data Structures & Algorithms* problems solved in Java.  
@@ -131,7 +131,7 @@ Java | DSA Patterns | LeetCode Problems
 
 
 
----
+
 
 ## 🚀 Featured Projects  
 
