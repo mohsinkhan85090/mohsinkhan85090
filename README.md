@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Mohsin Khan
 
-![Banner](https://via.placeholder.com/900x200?text=Mohsin+Khan+Banner)
+[![Mohsin Logo](https://raw.githubusercontent.com/mohsinkhan85090/mysite/main/logo.svg)](https://mohsinkhan85090.github.io/portfolio) 
+
 
 # Hi, I'm Mohsin Khan
 
