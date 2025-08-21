@@ -1,6 +1,5 @@
 [![Mohsin Khan](https://github.com/mohsinkhan85090/mohsinkhan85090/blob/main/profile.png)](https://mohsinkhan85090.github.io/portfolio)
-
-# [Visit My Portfolio](https://mohsinkhan85090.github.io/portfolio)
+ [Visit My Portfolio](https://mohsinkhan85090.github.io/portfolio)
 
 ---
 # Hi, I'm Mohsin Khan
@@ -25,7 +24,7 @@ I’m a self-driven and curious developer currently pursuing my degree while bui
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 
 <p align="center"> 
 
