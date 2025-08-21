@@ -77,15 +77,29 @@ Java | DSA Patterns | LeetCode Problems
 
 ---
 
-## Projects
+## 🚀 Featured Projects  
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **DSA-Solutions** | Collection of Java DSA solutions with examples and explanations | Java |
-| **Legal Chatbot** | AI-powered legal advisor for Indian laws | Python, Flask, Firestore, RAG |
-| **Yoga-AI** | Real-time yoga posture recognition system | Python, OpenCV, MediaPipe |
-| **VoiceBrowse** | Voice-based browser navigation & ChatGPT integration | JavaScript, Chrome API |
-| **Phishing Detection** | ML tool for phishing URL detection & classification | Python, Machine Learning |
+### 🔹 [Legal Chatbot](https://github.com/mohsinkhan85090/Legal-Chatbot-AI)  
+AI-powered **legal advisor for Indian laws** providing instant, scenario-based guidance.  
+🔧 Tech: *Python, Flask, Firestore, RAG (Gemini API)*  
+
+---
+
+### 🔹 [Yoga-AI](https://github.com/mohsinkhan85090/Yoga-Ai)  
+AI-driven **yoga posture recognition** system with real-time feedback for better alignment.  
+🔧 Tech: *Python, OpenCV, MediaPipe*  
+
+---
+
+### 🔹 [VoiceBrowse](https://github.com/mohsinkhan85090/VoiceBrowse)  
+Chrome extension for **voice-based browsing** — navigate tabs, bookmarks & interact with AI.  
+🔧 Tech: *JavaScript, Chrome API, OpenAI*  
+
+---
+
+### 🔹 [Phishing Detection](https://github.com/mohsinkhan85090/phishing-Detection)  
+Machine learning model for **phishing URL detection & classification** to enhance security.  
+🔧 Tech: *Python, Machine Learning, Security*  
 
 ---
 </p>
