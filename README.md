@@ -13,8 +13,7 @@
 
 I’m a self-driven and curious developer currently pursuing my degree while building real-world AI and web projects. From detecting phishing threats with machine learning to developing smart Chrome extension and yoga posture recognition systems — I love exploring how technology solves problems.
 
-- 🔭 I’m currently working on: Improving my AI & Web skills  
-- 🌱 I’m currently learning: Machine Learning, ReactJS  
+
 - 👯 I’m looking to collaborate on: AI & Web Development Projects  
 - 🤝 I’m looking for help with: Open-source ML Projects  
 - 💬 Ask me about: AI, DSA, Cloud, or Web Dev  
