@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Mohsin Khan
 
-[![Mohsin Logo](https://raw.githubusercontent.com/mohsinkhan85090/mysite/main/logo.svg)](https://mohsinkhan85090.github.io/portfolio) 
-
+[![Mohsin Khan](https://raw.githubusercontent.com/mohsinkhan85090/mysite/main/profile.jpg)](https://mohsinkhan85090.github.io/portfolio)
 
 # Hi, I'm Mohsin Khan
 
