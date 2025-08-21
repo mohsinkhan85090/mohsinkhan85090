@@ -30,6 +30,7 @@ Java | DSA Patterns | LeetCode Problems
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="center"> 
 
 <img src="https://img.shields.io/badge/-JavaScript-233233?style=flat-square&logo=javascript&logoColor=23F7DF1E">
@@ -69,7 +70,7 @@ Java | DSA Patterns | LeetCode Problems
 
 ---
 
-## Pinned Repositories
+## Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
