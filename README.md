@@ -75,7 +75,7 @@ I’m currently building real-world AI and web projects, exploring technologies 
 <br><br>
 
 <div align="center">
-<table align="center">
+
   <tr>
     <td>
 </p>
