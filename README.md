@@ -4,6 +4,7 @@
 ---
 
 # Hi, I'm Mohsin Khan
+
 🎓 Artificial Intelligence & Machine Learning student | 💻 Aspiring Software Developer | ☁️ Passionate about Cloud & AI Technologies
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohsin%20Khan-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mohsin-khan-aiml/)
@@ -25,6 +26,7 @@ I’m a self-driven and curious developer currently pursuing my degree while bui
 
 
 <h2 align="left">Languages and Tools:</h2>
+
 
 <p align="center"> 
 
