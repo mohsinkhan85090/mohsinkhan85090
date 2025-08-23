@@ -202,7 +202,7 @@ Java | DSA Patterns | LeetCode Problems
   <tr>
     <td colspan="2">
       <p align="center">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinkhan85090&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="mohsinkhan85090" />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinkhan85090&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&v=1" alt="mohsinkhan85090" />
       </p>
     </td>
   </tr>
