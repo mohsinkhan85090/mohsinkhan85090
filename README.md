@@ -195,7 +195,7 @@ Java | DSA Patterns | LeetCode Problems
     </td>
     <td>
 <p align="center">
-  &nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohsinkhan85090&theme=tokyonight" alt="mohsinkhan85090" />
+  &nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohsinkhan85090&theme=tokyonight" alt="mohsinkhan85090" />
 </p>
     </td>
   </tr>
@@ -209,11 +209,12 @@ Java | DSA Patterns | LeetCode Problems
   <tr>
     <td colspan="2">
       <p align="center">
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohsinkhan85090&theme=tokyonight" alt="mohsinkhan85090" />
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohsinkhan85090&theme=tokyonight" alt="mohsinkhan85090" />
       </p>
     </td>
   </tr>
 </table>
+
 
 <!-- Snake Animation -->
 <div align="center">
