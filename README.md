@@ -194,7 +194,25 @@ Java | DSA Patterns | LeetCode Problems
 </p>
 </td>
  <td> 
-  <p align="center"> &nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohsinkhan85090&theme=tokyonight" alt="mohsinkhan85090" /> </p> </td> </tr> <tr> <td colspan="2"> <p align="center"> <img align="center" src="https://streak-stats.demolab.com/?user=mohsinkhan85090&theme=tokyonight" /> </p> </td> </tr> <tr> <td colspan="2"> <p align="center"> <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohsinkhan85090&theme=tokyonight" alt="mohsinkhan85090" /> </p> </td> </tr> </table>
+  <p align="center"> &nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohsinkhan85090&theme=tokyonight" alt="mohsinkhan85090" /> 
+  </p> 
+ </td> 
+</tr>
+ <tr>
+  <td colspan="2"> 
+   <p align="center">
+    <<img src="https://github-readme-streak-stats-<your-vercel>.vercel.app/?user=mohsinkhan85090&theme=tokyonight" alt="GitHub Streak" />
+   </p> 
+  </td> 
+ </tr> 
+ <tr> 
+  <td colspan="2"> 
+   <p align="center"> 
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohsinkhan85090&theme=tokyonight" alt="mohsinkhan85090" /> 
+   </p>
+  </td>
+ </tr> 
+</table>
 
 
 
