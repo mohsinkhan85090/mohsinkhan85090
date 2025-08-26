@@ -184,36 +184,23 @@ Java | DSA Patterns | LeetCode Problems
 ---
 </p>
 
-<h3 align="left">📊 GitHub Statistics:</h3>
-<br><br>
+---
+
+<h3 align="center">📊 GitHub Statistics:</h3>
 
 <div align="center">
 
-  <tr>
-    <td>
-</p>
-    </td>
-    <td>
-<p align="center">
-  &nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohsinkhan85090&theme=tokyonight" alt="mohsinkhan85090" />
-</p>
-    </td>
-  </tr>
-  <tr>
-  <td colspan="2">
-    <p align="center">
-      <img align="center" src="https://streak-stats.demolab.com/?user=mohsinkhan85090&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&v=2" alt="mohsinkhan85090" />
-    </p>
-  </td>
-</tr>
-  <tr>
-    <td colspan="2">
-      <p align="center">
-        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohsinkhan85090&theme=tokyonight" alt="mohsinkhan85090" />
-      </p>
-    </td>
-  </tr>
-</table>
+  <!-- Stats Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohsinkhan85090&theme=tokyonight" alt="GitHub Stats" />
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=mohsinkhan85090&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&v=3" alt="GitHub Streak" />
+
+  <!-- Profile Details -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohsinkhan85090&theme=tokyonight" alt="GitHub Profile Summary" />
+
+</div>
+
 
 
 <!-- Snake Animation -->
