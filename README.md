@@ -5,7 +5,7 @@
 
 # Hi, I'm Mohsin Khan
 
-🎓 Artificial Intelligence & Machine Learning student | 💻 Aspiring Software Developer | ☁️ Passionate about Cloud & AI Technologies
+🎓 Artificial Intelligence & Machine Learning student | Aspiring Software Developer | ☁Passionate about Cloud & AI Technologies
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohsin%20Khan-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mohsin-khan-aiml/)
 [![GitHub followers](https://img.shields.io/github/followers/mohsinkhan85090?label=Follow&style=social)](https://github.com/mohsinkhan85090)
