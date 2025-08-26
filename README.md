@@ -198,13 +198,14 @@ Java | DSA Patterns | LeetCode Problems
   </p> 
  </td> 
 </tr>
- <tr>
+<tr>
   <td colspan="2"> 
    <p align="center">
-    <<img src="https://github-readme-streak-stats-<your-vercel>.vercel.app/?user=mohsinkhan85090&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=mohsinkhan85090&theme=tokyonight" alt="GitHub Streak" />
    </p> 
   </td> 
- </tr> 
+</tr>
+
  <tr> 
   <td colspan="2"> 
    <p align="center"> 
