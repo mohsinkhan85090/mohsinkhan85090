@@ -185,6 +185,12 @@ Java | DSA Patterns | LeetCode Problems
 </p>
 
 ---
+## 📊 GitHub Statistics  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mohsinkhan85090&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 
 <h3 align="left">📊 GitHub Statistics:</h3>
 <br><br> <div align="center"> 
