@@ -201,7 +201,7 @@ Java | DSA Patterns | LeetCode Problems
 <tr>
   <td colspan="2"> 
    <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=mohsinkhan85090&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://git-hub-streak-stats.vercel.app/?user=mohsinkhan85090&theme=tokyonight" alt="GitHub Streak (alt)" />
    </p> 
   </td> 
 </tr>
