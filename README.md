@@ -138,6 +138,16 @@ Java | DSA Patterns | LeetCode Problems
 
 <table>
   <tr>
+      <td width="50%">
+      <h3>🏥 <a href="https://github.com/mohsinkhan85090/Healthcare-Appointment-System">Healthcare Appointment System</a></h3>
+      <p>Full-stack <b>hospital management system</b> for managing doctors, patients, and appointments efficiently.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+      </p>
+      </td>
     <td width="50%">
       <h3>⚖️ <a href="https://github.com/mohsinkhan85090/Legal-Chatbot-AI">Legal Chatbot</a></h3>
       <p>AI-powered <b>legal advisor for Indian laws</b> providing instant, scenario-based guidance.</p>
