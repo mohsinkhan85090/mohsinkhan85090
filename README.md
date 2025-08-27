@@ -133,57 +133,15 @@ Java | DSA Patterns | LeetCode Problems
 
 ---
 
-
 ## 🚀 Featured Projects  
 
-### 🏥 [Healthcare Appointment System](https://github.com/mohsinkhan85090/Healthcare-Appointment-System)
-Full-stack **hospital management system** for managing doctors, patients, and appointments efficiently.  
-**Tech Stack:**  
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>  
-
----
-
-### ⚖️ [Legal Chatbot](https://github.com/mohsinkhan85090/Legal-Chatbot-AI)
-AI-powered **legal advisor for Indian laws** providing instant, scenario-based guidance.  
-**Tech Stack:**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black"/> 
-<img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat&logo=google&logoColor=white"/>  
-
----
-
-### 🧘 [Yoga-AI](https://github.com/mohsinkhan85090/Yoga-Ai)
-AI-driven **yoga posture recognition** with real-time feedback for better alignment.  
-**Tech Stack:**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=flat&logo=google&logoColor=white"/>  
-
----
-
-### 🎙️ [VoiceBrowse](https://github.com/mohsinkhan85090/VoiceBrowse)
-Chrome extension for **voice-based browsing** — navigate tabs, bookmarks & interact with AI.  
-**Tech Stack:**  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
-<img src="https://img.shields.io/badge/Chrome%20API-4285F4?style=flat&logo=googlechrome&logoColor=white"/> 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>  
-
----
-
-### 🛡️ [Phishing Detection](https://github.com/mohsinkhan85090/phishing-Detection)
-ML model for **phishing URL detection & classification** to enhance online security.  
-**Tech Stack:**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=scikitlearn&logoColor=F7931E"/> 
-<img src="https://img.shields.io/badge/Security-FF0000?style=flat&logo=datadog&logoColor=white"/>  
-
-
----
-</p>
+| Project | Description | Tech Stack |
+|--------|-------------|-----------|
+| 🏥 [Healthcare Appointment System](https://github.com/mohsinkhan85090/Healthcare-Appointment-System) | Full-stack **hospital management system** for managing doctors, patients, and appointments efficiently. | <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> |
+| ⚖️ [Legal Chatbot](https://github.com/mohsinkhan85090/Legal-Chatbot-AI) | AI-powered **legal advisor for Indian laws** providing instant, scenario-based guidance. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat&logo=google&logoColor=white"/> |
+| 🧘 [Yoga-AI](https://github.com/mohsinkhan85090/Yoga-Ai) | AI-driven **yoga posture recognition** with real-time feedback for better alignment. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=flat&logo=google&logoColor=white"/> |
+| 🎙️ [VoiceBrowse](https://github.com/mohsinkhan85090/VoiceBrowse) | Chrome extension for **voice-based browsing** — navigate tabs, bookmarks & interact with AI. | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Chrome%20API-4285F4?style=flat&logo=googlechrome&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/> |
+| 🛡️ [Phishing Detection](https://github.com/mohsinkhan85090/phishing-Detection) | ML model for **phishing URL detection & classification** to enhance online security. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=scikitlearn&logoColor=F7931E"/> <img src="https://img.shields.io/badge/Security-FF0000?style=flat&logo=datadog&logoColor=white"/> |
 
 ---
 
