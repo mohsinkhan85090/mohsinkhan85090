@@ -133,11 +133,12 @@ Java | DSA Patterns | LeetCode Problems
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
 <table>
   <tr>
-    <td width="50%">
+    <!-- Healthcare Appointment System -->
+    <td width="50%" valign="top">
       <h3>🏥 <a href="https://github.com/mohsinkhan85090/Healthcare-Appointment-System">Healthcare Appointment System</a></h3>
       <p>Full-stack <b>hospital management system</b> for managing doctors, patients, and appointments efficiently.</p>
       <p>
@@ -147,7 +148,9 @@ Java | DSA Patterns | LeetCode Problems
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
       </p>
     </td>
-    <td width="50%">
+
+    <!-- Legal Chatbot -->
+   <td width="50%" valign="top">
       <h3>⚖️ <a href="https://github.com/mohsinkhan85090/Legal-Chatbot-AI">Legal Chatbot</a></h3>
       <p>AI-powered <b>legal advisor for Indian laws</b> providing instant, scenario-based guidance.</p>
       <p>
@@ -157,7 +160,11 @@ Java | DSA Patterns | LeetCode Problems
         <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat&logo=google&logoColor=white"/>
       </p>
     </td>
-    <td width="50%">
+  </tr>
+
+  <tr>
+    <!-- Yoga-AI -->
+    <td width="50%" valign="top">
       <h3>🧘 <a href="https://github.com/mohsinkhan85090/Yoga-Ai">Yoga-AI</a></h3>
       <p>AI-driven <b>yoga posture recognition</b> with real-time feedback for better alignment.</p>
       <p>
@@ -166,9 +173,9 @@ Java | DSA Patterns | LeetCode Problems
         <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=flat&logo=google&logoColor=white"/>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
+
+    <!-- VoiceBrowse -->
+   <td width="50%" valign="top">
       <h3>🎙️ <a href="https://github.com/mohsinkhan85090/VoiceBrowse">VoiceBrowse</a></h3>
       <p>Chrome extension for <b>voice-based browsing</b> — navigate tabs, bookmarks & interact with AI.</p>
       <p>
@@ -177,7 +184,11 @@ Java | DSA Patterns | LeetCode Problems
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
       </p>
     </td>
-    <td width="50%">
+  </tr>
+
+  <tr>
+    <!-- Phishing Detection -->
+    <td colspan="2" valign="top">
       <h3>🛡️ <a href="https://github.com/mohsinkhan85090/phishing-Detection">Phishing Detection</a></h3>
       <p>ML model for <b>phishing URL detection & classification</b> to enhance online security.</p>
       <p>
@@ -221,6 +232,7 @@ Java | DSA Patterns | LeetCode Problems
 </table>
 
 
+---
 
 <!-- Snake Animation -->
 <div align="center">
