@@ -223,6 +223,9 @@ Java | DSA Patterns | LeetCode Problems
    </p>
   </td>
  </tr> 
+ <p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinkhan85090&layout=compact&langs_count=8&theme=tokyonight" height="160" alt="Top Languages" />
+</p>
 </table>
 
 
