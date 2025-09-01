@@ -3,7 +3,7 @@
 
 ---
 
-# About
+<h2 align="left">About:</h2>
 
 🎓 Artificial Intelligence & Machine Learning student | Aspiring Software Developer | ☁Passionate about Cloud & AI Technologies
 
