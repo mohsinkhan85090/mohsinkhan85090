@@ -3,7 +3,7 @@
 
 ---
 
-# Hi, I'm Mohsin Khan
+# About
 
 🎓 Artificial Intelligence & Machine Learning student | Aspiring Software Developer | ☁Passionate about Cloud & AI Technologies
 
