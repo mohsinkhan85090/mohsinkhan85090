@@ -1,4 +1,4 @@
-[![Mohsin Khan](https://github.com/mohsinkhan85090/mohsinkhan85090/blob/main/profile.png)](https://mohsinkhan85090.github.io/portfolio)
+[![Mohsin Khan](https://github.com/mohsinkhan85090/mohsinkhan85090/blob/main/Black Minimalist Motivation Quote LinkedIn Banner.png)](https://mohsinkhan85090.github.io/portfolio)
  [Visit My Portfolio](https://mohsinkhan85090.github.io/portfolio)
 
 ---
