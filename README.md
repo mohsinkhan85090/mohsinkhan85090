@@ -149,7 +149,7 @@ Java | DSA Patterns | LeetCode Problems
     </td>
 
    <td width="50%" valign="top">
-      <h3>⚖️ <a href="https://github.com/mohsinkhan85090/Legal-Chatbot-AI">Legal Chatbot</a></h3>
+      <h3>⚖️ <a href="https://github.com/mohsinkhan85090/Legal-Chatbot">Legal Chatbot</a></h3>
       <p>AI-powered <b>legal advisor for Indian laws</b> providing instant, scenario-based guidance.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
