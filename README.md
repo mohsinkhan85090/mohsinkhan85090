@@ -124,14 +124,14 @@ I’m a self-driven and curious developer currently pursuing my degree while bui
 ---
 
 ###  [📈 DSA Java Solutions](https://github.com/mohsinkhan85090/DSA-Solutions)  
-A personal collection of *Data Structures & Algorithms* problems solved in Java.  
+A personal collection of Data Structures & Algorithms problems solved in Java.  
 Each problem includes the description, example inputs/outputs, and a clean explanation.  
-Currently covering topics like *Binary Search*, with more to come (e.g., Sliding Window, Recursion, Graphs).  
+Currently covering topics like Binary Search, with more to come (e.g., Sliding Window, Recursion, Graphs).  
 Java | DSA Patterns | LeetCode Problems
 
 [![Repo](https://img.shields.io/badge/DSA%20Solutions-Java%20%7C%20LeetCode-blueviolet?style=flat-square&logo=java)](https://github.com/mohsinkhan85090/DSA-Solutions)
 
-# Topics Covered  
+ Topics Covered  
 - 🔍 **Arrays**  
 - ⚖️ **Strings** 
 - 🧩 **Divide & Conquer**  
