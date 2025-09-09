@@ -131,7 +131,7 @@ Java | DSA Patterns | LeetCode Problems
 
 [![Repo](https://img.shields.io/badge/DSA%20Solutions-Java%20%7C%20LeetCode-blueviolet?style=flat-square&logo=java)](https://github.com/mohsinkhan85090/DSA-Solutions)
 
- #Topics Covered  
+ # Topics Covered  
 - 🔍 **Arrays**  
 - ⚖️ **Strings** 
 - 🧩 **Divide & Conquer**  
