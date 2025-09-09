@@ -49,7 +49,7 @@ I’m a self-driven and curious developer currently pursuing my degree while bui
  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb">
 <!--<img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"> -->
 <img src="https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql">
-<img src="https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku&logoColor=white">-->
+<img src="https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white">
 <!--<img src="https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel&logoColor=white">-->
  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker">
