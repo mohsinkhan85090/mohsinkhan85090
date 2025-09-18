@@ -131,18 +131,6 @@ Java | DSA Patterns | LeetCode Problems
 
 [![Repo](https://img.shields.io/badge/DSA%20Solutions-Java%20%7C%20LeetCode-blueviolet?style=flat-square&logo=java)](https://github.com/mohsinkhan85090/DSA-Solutions)
 
- # Topics Covered  
-- 🔍 **Arrays**  
-- ⚖️ **Strings** 
-- 🧩 **Divide & Conquer**  
-- 🪟 **Sliding Window** *(coming soon)*  
-- 🔁 **Recursion & Backtracking** *(coming soon)*  
-- 🌳 **Trees & Binary Search Trees (BSTs)** *(coming soon)*  
-- 🗂 **Hashing & HashMap Patterns** *(coming soon)*  
-- 📊 **Dynamic Programming (DP)** *(coming soon)*  
-- 🌐 **Graphs** *(coming soon)*  
-
-
 ---
 
 ## 🚀 Featured Projects
