@@ -197,6 +197,8 @@ Java | DSA Patterns | LeetCode Problems
 ---
 
 ## 🌍 Open Source Contributions  
+<div align="center">
+
 <table>
   <tr>
     <!-- OpenCV-Python -->
@@ -208,7 +210,6 @@ Java | DSA Patterns | LeetCode Problems
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
       </p>
     </td>
-
     <!-- Cura-Genie -->
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/mohsinkhan85090/Cura-Genie">Cura-Genie</a></h3>
@@ -230,7 +231,6 @@ Java | DSA Patterns | LeetCode Problems
         <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=scikitlearn&logoColor=F7931E"/>
       </p>
     </td>
-
     <!-- InstantSearch -->
     <td width="50%" valign="top">
       <h3>🔍 <a href="https://github.com/mohsinkhan85090/instantsearch">InstantSearch</a></h3>
@@ -242,6 +242,9 @@ Java | DSA Patterns | LeetCode Problems
     </td>
   </tr>
 </table>
+
+</div>
+
 
 
 ---
