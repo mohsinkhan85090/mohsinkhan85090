@@ -197,9 +197,9 @@ Java | DSA Patterns | LeetCode Problems
 ---
 
 ## 🌍 Open Source Contributions  
-
 <table>
   <tr>
+    <!-- OpenCV-Python -->
     <td width="50%" valign="top">
       <h3>🔎 <a href="https://github.com/mohsinkhan85090/opencv-python">OpenCV-Python</a></h3>
       <p>Contributed to the official <b>OpenCV-Python</b> bindings</b> for computer vision.</p>
@@ -208,9 +208,8 @@ Java | DSA Patterns | LeetCode Problems
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
       </p>
     </td>
-  </tr>
 
-  <tr>
+    <!-- Cura-Genie -->
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/mohsinkhan85090/Cura-Genie">Cura-Genie</a></h3>
       <p>An AI-powered <b>desktop voice assistant</b> built with Python & OpenAI APIs.</p>
@@ -219,6 +218,10 @@ Java | DSA Patterns | LeetCode Problems
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
       </p>
     </td>
+  </tr>
+
+  <tr>
+    <!-- Lore -->
     <td width="50%" valign="top">
       <h3>⚡ <a href="https://github.com/mohsinkhan85090/lore">Lore</a></h3>
       <p>Contributions to <b>data handling & ML utilities</b> improving usability.</p>
@@ -227,9 +230,8 @@ Java | DSA Patterns | LeetCode Problems
         <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=scikitlearn&logoColor=F7931E"/>
       </p>
     </td>
-  </tr>
 
-  <tr>
+    <!-- InstantSearch -->
     <td width="50%" valign="top">
       <h3>🔍 <a href="https://github.com/mohsinkhan85090/instantsearch">InstantSearch</a></h3>
       <p>Improving <b>search interface tools</b> enabling fast & intuitive search experiences.</p>
@@ -240,6 +242,7 @@ Java | DSA Patterns | LeetCode Problems
     </td>
   </tr>
 </table>
+
 
 ---
 
