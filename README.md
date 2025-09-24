@@ -196,6 +196,47 @@ Java | DSA Patterns | LeetCode Problems
 
 ---
 
+---
+
+## 🌍 Open Source Contributions  
+
+I actively contribute to open-source projects, exploring AI, computer vision, and developer tools. Some of my contributions include:  
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔎 <a href="https://github.com/mohsinkhan85090/opencv-python">OpenCV-Python</a></h3>
+      <p>Contributed to the official <b>OpenCV-Python</b> bindings for computer vision.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📷 <a href="https://github.com/mohsinkhan85090/opencv">OpenCV</a></h3>
+      <p>Enhancing core <b>OpenCV</b> functionalities with bug fixes & improvements.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/mohsinkhan85090/Cura-Genie">Cura-Genie</a></h3>
+      <p>An AI-powered desktop voice assistant built with Python & OpenAI APIs.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/mohsinkhan85090/lore">Lore</a></h3>
+      <p>Open-source project contributions focusing on <b>data handling & ML utilities</b>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐍 <a href="https://github.com/mohsinkhan85090/app-examples-python">App Examples (Python)</a></h3>
+      <p>Created Python-based open-source app examples for developers to learn.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 <a href="https://github.com/mohsinkhan85090/instantsearch">InstantSearch</a></h3>
+      <p>Contributions to <b>search interface tools</b> enabling fast and intuitive search.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 
 <h3 align="left">📊 GitHub Statistics:</h3>
 <br><br> <div align="center"> 
