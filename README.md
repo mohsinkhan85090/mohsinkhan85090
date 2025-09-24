@@ -198,42 +198,63 @@ Java | DSA Patterns | LeetCode Problems
 
 ---
 
-## 🌍 Open Source Contributions  
+---
 
-I actively contribute to open-source projects, exploring AI, computer vision, and developer tools. Some of my contributions include:  
+## 🌍 Open Source Contributions  
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🔎 <a href="https://github.com/mohsinkhan85090/opencv-python">OpenCV-Python</a></h3>
-      <p>Contributed to the official <b>OpenCV-Python</b> bindings for computer vision.</p>
+      <p>Contributed to the official <b>OpenCV-Python</b> bindings</b> for computer vision.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>📷 <a href="https://github.com/mohsinkhan85090/opencv">OpenCV</a></h3>
       <p>Enhancing core <b>OpenCV</b> functionalities with bug fixes & improvements.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+      </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/mohsinkhan85090/Cura-Genie">Cura-Genie</a></h3>
-      <p>An AI-powered desktop voice assistant built with Python & OpenAI APIs.</p>
+      <p>An AI-powered <b>desktop voice assistant</b> built with Python & OpenAI APIs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>⚡ <a href="https://github.com/mohsinkhan85090/lore">Lore</a></h3>
-      <p>Open-source project contributions focusing on <b>data handling & ML utilities</b>.</p>
+      <p>Contributions to <b>data handling & ML utilities</b> improving usability.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=scikitlearn&logoColor=F7931E"/>
+      </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
-      <h3>🐍 <a href="https://github.com/mohsinkhan85090/app-examples-python">App Examples (Python)</a></h3>
-      <p>Created Python-based open-source app examples for developers to learn.</p>
-    </td>
-    <td width="50%" valign="top">
       <h3>🔍 <a href="https://github.com/mohsinkhan85090/instantsearch">InstantSearch</a></h3>
-      <p>Contributions to <b>search interface tools</b> enabling fast and intuitive search.</p>
+      <p>Improving <b>search interface tools</b> enabling fast & intuitive search experiences.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Search-4285F4?style=flat&logo=google&logoColor=white"/>
+      </p>
     </td>
   </tr>
 </table>
+
+---
+
 
 ---
 
