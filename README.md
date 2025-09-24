@@ -260,35 +260,30 @@ Java | DSA Patterns | LeetCode Problems
 
 
 <h3 align="left">📊 GitHub Statistics:</h3>
-<br><br> <div align="center"> 
- <tr>
-  <td>
-</p>
-</td>
- <td> 
-  <p align="center"> &nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohsinkhan85090&theme=tokyonight" alt="mohsinkhan85090" /> 
-  </p> 
- </td> 
-</tr>
-<tr>
-  <td colspan="2"> 
-   <p align="center">
-    <img src="https://git-hub-streak-stats.vercel.app/?user=mohsinkhan85090&theme=tokyonight" alt="GitHub Streak (alt)" />
-   </p> 
-  </td> 
-</tr>
 
- <tr> 
-  <td colspan="2"> 
-   <p align="center"> 
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohsinkhan85090&theme=tokyonight" alt="mohsinkhan85090" /> 
-   </p>
-  </td>
- </tr> 
- <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinkhan85090&layout=compact&langs_count=8&theme=tokyonight" height="160" alt="Top Languages" />
-</p>
+<table>
+  <tr>
+    <!-- Stats -->
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohsinkhan85090&theme=tokyonight" alt="Stats" />
+    </td>
+    <!-- Top Languages -->
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinkhan85090&layout=compact&langs_count=8&theme=tokyonight" height="160" alt="Top Languages" />
+    </td>
+  </tr>
 </table>
+
+<!-- Streak -->
+<p align="center">
+  <img src="https://git-hub-streak-stats.vercel.app/?user=mohsinkhan85090&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<!-- Profile Details -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohsinkhan85090&theme=tokyonight" alt="Profile Details" />
+</p>
+
 
 
 ---
