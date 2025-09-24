@@ -262,8 +262,9 @@ Java | DSA Patterns | LeetCode Problems
 <h3 align="left">📊 GitHub Statistics:</h3>
 
 <table>
+  <div align="center"> 
   <tr>
-    <!-- Stats -->
+    <!-- Statistics -->
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohsinkhan85090&theme=tokyonight" alt="Stats" />
     </td>
