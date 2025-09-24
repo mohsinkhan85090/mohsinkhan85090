@@ -196,10 +196,6 @@ Java | DSA Patterns | LeetCode Problems
 
 ---
 
----
-
----
-
 ## 🌍 Open Source Contributions  
 
 <table>
@@ -209,14 +205,6 @@ Java | DSA Patterns | LeetCode Problems
       <p>Contributed to the official <b>OpenCV-Python</b> bindings</b> for computer vision.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📷 <a href="https://github.com/mohsinkhan85090/opencv">OpenCV</a></h3>
-      <p>Enhancing core <b>OpenCV</b> functionalities with bug fixes & improvements.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
       </p>
     </td>
