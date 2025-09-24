@@ -261,8 +261,9 @@ Java | DSA Patterns | LeetCode Problems
 
 <h3 align="left">📊 GitHub Statistics:</h3>
 
+<div align="center">
+
 <table>
-  <div align="center"> 
   <tr>
     <!-- Statistics -->
     <td>
@@ -274,6 +275,9 @@ Java | DSA Patterns | LeetCode Problems
     </td>
   </tr>
 </table>
+
+</div>
+
 
 <!-- Streak -->
 <p align="center">
