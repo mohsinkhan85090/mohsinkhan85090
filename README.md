@@ -131,15 +131,12 @@ Java | DSA Patterns | LeetCode Problems
 [![Repo](https://img.shields.io/badge/DSA%20Solutions-Java%20%7C%20LeetCode-blueviolet?style=flat-square&logo=java)](https://github.com/mohsinkhan85090/DSA-Solutions)
 
 ---
-
-## 🚀 Featured Projects
-
-## 🚀 Featured Projects
+## featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3> <a href="https://github.com/mohsinkhan85090/Muffin">Muffin Assistant</a></h3>
+      <h3>🧁 <a href="https://github.com/mohsinkhan85090/Muffin">Muffin Assistant</a></h3>
       <p><b>AI-powered personal assistant</b> web app with a stunning animated dark UI, powered by Google Gemini. Ask any question, get instant answers, code help, and more—all in a beautiful, modern interface.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -148,22 +145,9 @@ Java | DSA Patterns | LeetCode Problems
         <img src="https://img.shields.io/badge/Animated%20UI-Dark%20Theme-8e44ad?style=flat"/>
       </p>
     </td>
-    <td width="50%" valign="top"></td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 <a href="https://github.com/mohsinkhan85090/Healthcare-Appointment-System">Healthcare Appointment System</a></h3>
-      <p>Full-stack <b>hospital management system</b> for managing doctors, patients, and appointments efficiently.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-      </p>
-    </td>
     <td width="50%" valign="top">
       <h3>⚖️ <a href="https://github.com/mohsinkhan85090/Legal-Chatbot">Legal Chatbot</a></h3>
-      <p>AI-powered <b>legal advisor for Indian laws</b> providing instant, scenario-based guidance.</p>
+      <p><b>AI-powered legal advisor for Indian laws</b> providing instant, scenario-based guidance.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
@@ -175,7 +159,7 @@ Java | DSA Patterns | LeetCode Problems
   <tr>
     <td width="50%" valign="top">
       <h3>🧘 <a href="https://github.com/mohsinkhan85090/Yoga-Ai">Yoga-AI</a></h3>
-      <p>AI-driven <b>yoga posture recognition</b> with real-time feedback for better alignment.</p>
+      <p><b>AI-driven yoga posture recognition</b> with real-time feedback for better alignment.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
@@ -183,19 +167,29 @@ Java | DSA Patterns | LeetCode Problems
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3>🏥 <a href="https://github.com/mohsinkhan85090/Healthcare-Appointment-System">Healthcare Appointment System</a></h3>
+      <p><b>Full-stack hospital management system</b> for managing doctors, patients, and appointments efficiently.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🎙️ <a href="https://github.com/mohsinkhan85090/VoiceBrowse">VoiceBrowse</a></h3>
-      <p>Chrome extension for <b>voice-based browsing</b> — navigate tabs, bookmarks & interact with AI.</p>
+      <p><b>Chrome extension for voice-based browsing</b> — navigate tabs, bookmarks & interact with AI.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/Chrome%20API-4285F4?style=flat&logo=googlechrome&logoColor=white"/>
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3>🛡️ <a href="https://github.com/mohsinkhan85090/phishing-Detection">Phishing Detection</a></h3>
-      <p>ML model for <b>phishing URL detection & classification</b> to enhance online security.</p>
+      <p><b>ML model for phishing URL detection & classification</b> to enhance online security.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=scikitlearn&logoColor=F7931E"/>
