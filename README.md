@@ -135,7 +135,7 @@ Java | DSA Patterns | LeetCode Problems
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧁 <a href="https://github.com/mohsinkhan85090/Muffin">Muffin Assistant</a></h3>
+      <h3> <a href="https://github.com/mohsinkhan85090/Muffin">Muffin Assistant</a></h3>
       <p><b>AI-powered personal assistant</b> web app with a stunning animated dark UI, powered by Google Gemini. Ask any question, get instant answers, code help, and more—all in a beautiful, modern interface.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
