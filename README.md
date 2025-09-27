@@ -24,7 +24,6 @@ I’m a self-driven and curious developer currently pursuing my degree while bui
 
 ---
 
-\\
 <h2 align="left">Languages and Tools:</h2>
 
 
@@ -131,7 +130,7 @@ Java | DSA Patterns | LeetCode Problems
 [![Repo](https://img.shields.io/badge/DSA%20Solutions-Java%20%7C%20LeetCode-blueviolet?style=flat-square&logo=java)](https://github.com/mohsinkhan85090/DSA-Solutions)
 
 ---
-## featured Projects
+## 🚀 Featured Projects
 
 <table>
   <tr>
