@@ -165,7 +165,7 @@ Java | DSA Patterns | LeetCode Problems
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏥 <a href="https://github.com/mohsinkhan85090/Healthcare-Appointment-System">Healthcare Appointment System</a></h3>
+      <h3> <a href="https://github.com/mohsinkhan85090/Healthcare-Appointment-System">Healthcare Appointment System</a></h3>
       <p><b>Full-stack hospital management system</b> for managing doctors, patients, and appointments efficiently.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
@@ -177,7 +177,7 @@ Java | DSA Patterns | LeetCode Problems
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎙️ <a href="https://github.com/mohsinkhan85090/VoiceBrowse">VoiceBrowse</a></h3>
+      <h3> <a href="https://github.com/mohsinkhan85090/VoiceBrowse">VoiceBrowse</a></h3>
       <p><b>Chrome extension for voice-based browsing</b> — navigate tabs, bookmarks & interact with AI.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
