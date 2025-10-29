@@ -23,7 +23,7 @@ I’m a self-driven and curious developer currently pursuing my degree while bui
 
 ---
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools</h2>
 
 
 <p align="center"> 
