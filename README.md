@@ -199,7 +199,7 @@ Java | DSA Patterns | LeetCode Problems
 </table>
 
 
-## 🌍 Open Source Contributions  
+## Open Source Contributions  
 <div align="center">
 
 <table>
