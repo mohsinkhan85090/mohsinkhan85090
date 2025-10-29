@@ -144,7 +144,7 @@ Java | DSA Patterns | LeetCode Problems
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚖️ <a href="https://github.com/mohsinkhan85090/Legal-Chatbot">Legal Chatbot</a></h3>
+      <h3> <a href="https://github.com/mohsinkhan85090/Legal-Chatbot">Legal Chatbot</a></h3>
       <p><b>AI-powered legal advisor for Indian laws</b> providing instant, scenario-based guidance.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -156,7 +156,7 @@ Java | DSA Patterns | LeetCode Problems
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧘 <a href="https://github.com/mohsinkhan85090/Yoga-Ai">Yoga-AI</a></h3>
+      <h3> <a href="https://github.com/mohsinkhan85090/Yoga-Ai">Yoga-AI</a></h3>
       <p><b>AI-driven yoga posture recognition</b> with real-time feedback for better alignment.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
