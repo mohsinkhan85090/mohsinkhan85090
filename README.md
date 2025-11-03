@@ -42,7 +42,7 @@ I’m a self-driven and curious developer currently pursuing my degree while bui
 <img src="https://img.shields.io/badge/-HTML5-E34C26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS3-264DE4?style=flat-square&logo=css3">
 <img src="https://img.shields.io/badge/-Bootstrap-563d7c?style=flat-square&logo=bootstrap&logoColor=white">
-<!--<img src="https://img.shields.io/badge/-MUI-blue?style=flat-square&logo=mui&logoColor=white">-->
+<img src="https://img.shields.io/badge/-MUI-blue?style=flat-square&logo=mui&logoColor=white">
  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb">
 <!--<img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"> -->
 <img src="https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql">
