@@ -260,7 +260,7 @@ Java | DSA Patterns | LeetCode Problems
   <tr>
     <!-- Statistics -->
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohsinkhan85090&theme=tokyonight" alt="Stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/statistics?username=mohsinkhan85090&theme=tokyonight" alt="Stats" />
     </td>
     <!-- Top Languages -->
     <td>
