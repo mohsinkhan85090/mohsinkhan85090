@@ -121,7 +121,7 @@ I’m a self-driven and curious developer currently pursuing my degree while bui
 
 ---
 
-###  [📈 DSA Java Solutions](https://github.com/mohsinkhan85090/DSA-Solutions)  
+####  [📈 DSA Java Solutions](https://github.com/mohsinkhan85090/DSA-Solutions)  
 A personal collection of Data Structures & Algorithms problems solved in Java.  
 Each problem includes the description, example inputs/outputs, and a clean explanation. 
 Tech Stack: Java · DSA · Algorithms · LeetCode Patterns
