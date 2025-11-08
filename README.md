@@ -59,6 +59,9 @@ I’m a self-driven and curious developer currently pursuing my degree while bui
 <!--<img src="https://img.shields.io/badge/Scrimba-2B283A?style=flat-square&logo=scrimba&logoColor=white">-->
 <img src="https://img.shields.io/badge/C-%233A95E3.svg?style=flat-square&logo=apple&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white">
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+  </a> 
 
 
 
@@ -108,9 +111,7 @@ I’m a self-driven and curious developer currently pursuing my degree while bui
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
-  <!--<a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
+  <!--
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>-->
@@ -221,7 +222,6 @@ Java | DSA Patterns | LeetCode Problems
       </p>
     </td>
   </tr>
-
   <tr>
     <!-- Lore -->
     <td width="50%" valign="top">
@@ -245,7 +245,6 @@ Java | DSA Patterns | LeetCode Problems
 </table>
 
 </div>
-
 
 ---
 
