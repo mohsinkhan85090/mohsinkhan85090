@@ -146,8 +146,6 @@ Java | DSA Patterns | LeetCode Problems
   </p>
 </td>
 </tr>
-
-  <tr>
     <td width="50%" valign="top">
       <h3> <a href="https://github.com/mohsinkhan85090/Muffin">Muffin Assistant</a></h3>
       <p><b>AI-powered personal assistant</b> web app with a stunning animated dark UI, powered by Google Gemini. Ask any question, get instant answers, code help, and more—all in a beautiful, modern interface.</p>
