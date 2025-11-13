@@ -265,10 +265,11 @@ Java | DSA Patterns | LeetCode Problems
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohsinkhan85090&theme=tokyonight" alt="Statistics" />
     </td>
-    <!-- Top Languages -->
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinkhan85090&layout=compact&langs_count=8&theme=tokyonight" height="160" alt="Top Languages" />
-    </td>
+<!-- Top Languages -->
+<td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinkhan85090&layout=compact&langs_count=12&theme=tokyonight&hide_title=false&card_width=450&size_weight=0.5&count_weight=0.5&custom_title=Most%20Used%20Languages%20🚀&show_icons=true" height="180" alt="Top Languages" />
+</td>
+
   </tr>
 </table>
 
