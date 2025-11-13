@@ -131,23 +131,23 @@ Java | DSA Patterns | LeetCode Problems
 ## Featured Projects
 
 <table>
- <td width="50%" valign="top">
-  <h3><a href="https://github.com/mohsinkhan85090/ML-Deployment-CI-CD">ML Deployment CI/CD</a></h3>
-  <p><b>End-to-End ML model deployment pipeline</b> integrating Machine Learning, Docker, CI/CD automation, and Kubernetes orchestration.</p>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MLOps-FF6F00?style=flat&logo=mlflow&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CI%2FCD-2F855A?style=flat&logo=git&logoColor=white"/>
-  </p>
-</td>
-</tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3> <a href="https://github.com/mohsinkhan85090/Muffin">Muffin Assistant</a></h3>
+      <h3><a href="https://github.com/mohsinkhan85090/ML-Deployment-CI-CD">ML Deployment CI/CD</a></h3>
+      <p><b>End-to-End ML model deployment pipeline</b> integrating Machine Learning, Docker, CI/CD automation, and Kubernetes orchestration.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MLOps-FF6F00?style=flat&logo=mlflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CI%2FCD-2F855A?style=flat&logo=git&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mohsinkhan85090/Muffin">Muffin Assistant</a></h3>
       <p><b>AI-powered personal assistant</b> web app with a stunning animated dark UI, powered by Google Gemini. Ask any question, get instant answers, code help, and more—all in a beautiful, modern interface.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -156,8 +156,11 @@ Java | DSA Patterns | LeetCode Problems
         <img src="https://img.shields.io/badge/Animated%20UI-Dark%20Theme-8e44ad?style=flat"/>
       </p>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top">
-      <h3> <a href="https://github.com/mohsinkhan85090/Legal-Chatbot">Legal Chatbot</a></h3>
+      <h3><a href="https://github.com/mohsinkhan85090/Legal-Chatbot">Legal Chatbot</a></h3>
       <p><b>AI-powered legal advisor for Indian laws</b> providing instant, scenario-based guidance.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -166,10 +169,8 @@ Java | DSA Patterns | LeetCode Problems
         <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat&logo=google&logoColor=white"/>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h3> <a href="https://github.com/mohsinkhan85090/Yoga-Ai">Yoga-AI</a></h3>
+      <h3><a href="https://github.com/mohsinkhan85090/Yoga-Ai">Yoga-AI</a></h3>
       <p><b>AI-driven yoga posture recognition</b> with real-time feedback for better alignment.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -177,25 +178,16 @@ Java | DSA Patterns | LeetCode Problems
         <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=flat&logo=google&logoColor=white"/>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3> <a href="https://github.com/mohsinkhan85090/Healthcare-Appointment-System">Healthcare Appointment System</a></h3>
+      <h3><a href="https://github.com/mohsinkhan85090/Healthcare-Appointment-System">Healthcare Appointment System</a></h3>
       <p><b>Full-stack hospital management system</b> for managing doctors, patients, and appointments efficiently.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3> <a href="https://github.com/mohsinkhan85090/VoiceBrowse">VoiceBrowse</a></h3>
-      <p><b>Chrome extension for voice-based browsing</b> — navigate tabs, bookmarks & interact with AI.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Chrome%20API-4285F4?style=flat&logo=googlechrome&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -209,6 +201,7 @@ Java | DSA Patterns | LeetCode Problems
     </td>
   </tr>
 </table>
+
 
 
 ## Open Source Contributions  
