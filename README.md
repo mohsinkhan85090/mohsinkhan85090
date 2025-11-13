@@ -131,6 +131,22 @@ Java | DSA Patterns | LeetCode Problems
 ## Featured Projects
 
 <table>
+ <td width="50%" valign="top">
+  <h3><a href="https://github.com/mohsinkhan85090/ML-Deployment-CI-CD">ML Deployment CI/CD</a></h3>
+  <p><b>End-to-End ML model deployment pipeline</b> integrating Machine Learning, Docker, CI/CD automation, and Kubernetes orchestration.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MLOps-FF6F00?style=flat&logo=mlflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CI%2FCD-2F855A?style=flat&logo=git&logoColor=white"/>
+  </p>
+</td>
+</tr>
+
   <tr>
     <td width="50%" valign="top">
       <h3> <a href="https://github.com/mohsinkhan85090/Muffin">Muffin Assistant</a></h3>
