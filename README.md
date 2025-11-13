@@ -147,13 +147,12 @@ Java | DSA Patterns | LeetCode Problems
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/mohsinkhan85090/Muffin">Muffin Assistant</a></h3>
-      <p><b>AI-powered personal assistant</b> web app with a stunning animated dark UI, powered by Google Gemini. Ask any question, get instant answers, code help, and more—all in a beautiful, modern interface.</p>
+      <h3><a href="https://github.com/mohsinkhan85090/VoiceBrowse">VoiceBrowse</a></h3>
+      <p><b>Chrome extension for voice-based browsing</b> — navigate tabs, bookmarks & interact with AI.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat&logo=google&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Animated%20UI-Dark%20Theme-8e44ad?style=flat"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Chrome%20API-4285F4?style=flat&logo=googlechrome&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
       </p>
     </td>
   </tr>
@@ -179,6 +178,7 @@ Java | DSA Patterns | LeetCode Problems
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mohsinkhan85090/Healthcare-Appointment-System">Healthcare Appointment System</a></h3>
@@ -201,7 +201,6 @@ Java | DSA Patterns | LeetCode Problems
     </td>
   </tr>
 </table>
-
 
 
 ## Open Source Contributions  
