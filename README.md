@@ -132,7 +132,7 @@ Java | DSA Patterns | LeetCode Problems
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/mohsinkhan85090/ML-Deployment-CI-CD">ML Deployment CI/CD</a></h3>
+      <h3><a href="https://github.com/mohsinkhan85090/ML-Deployment-CI-CD">ML-Model-Deployment-with-Docker-Kubernetes-CI-CD</a></h3>
       <p><b>End-to-End ML model deployment pipeline</b> integrating Machine Learning, Docker, CI/CD automation, and Kubernetes orchestration.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
