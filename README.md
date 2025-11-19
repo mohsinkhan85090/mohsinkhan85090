@@ -129,7 +129,6 @@ Java | DSA Patterns | LeetCode Problems
 
 ---
 ## Featured Projects
-
 <table>
   <tr>
     <td width="50%" valign="top">
