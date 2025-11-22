@@ -145,6 +145,19 @@ Java | DSA Patterns | LeetCode Problems
         <img src="https://img.shields.io/badge/CI%2FCD-2F855A?style=flat&logo=git&logoColor=white"/>
       </p>
     </td>
+    <tr>
+  <td width="50%" valign="top">
+    <h3><a href="https://github.com/mohsinkhan85090/Lawvia">Lawvia</a></h3>
+    <p><b>LLM-based Legal ChatBot</b> built using RAG architecture, Google Generative AI Embeddings, and vector search for Indian law assistance.</p>
+    <p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RAG-5C3EE8?style=flat&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Google%20AI%20Embeddings-4285F4?style=flat&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vector%20Store-009688?style=flat&logo=databricks&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+    </p>
+  </td>
+</tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mohsinkhan85090/VoiceBrowse">VoiceBrowse</a></h3>
       <p><b>Chrome extension for voice-based browsing</b> — navigate tabs, bookmarks & interact with AI.</p>
@@ -155,7 +168,7 @@ Java | DSA Patterns | LeetCode Problems
       </p>
     </td>
   </tr>
-
+ 
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mohsinkhan85090/Legal-Chatbot">Legal Chatbot</a></h3>
@@ -203,16 +216,6 @@ Java | DSA Patterns | LeetCode Problems
   <!-- 👇 NEWLY ADDED PROJECTS 👇 -->
 
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mohsinkhan85090/Lawvia">Lawvia</a></h3>
-      <p><b>LLM-based Legal ChatBot</b> using RAG, FAISS vector search, and Google Generative AI for Indian law assistance.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FAISS-393939?style=flat&logo=facebook&logoColor=white"/>
-        <img src="https://img.shields.io/badge/RAG-5C3EE8?style=flat&logo=google&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vector%20DB-009688?style=flat&logo=databricks&logoColor=white"/>
-      </p>
-    </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mohsinkhan85090/Appointify">Appointify</a></h3>
       <p><b>Full MERN Doctor Appointment App</b> with multi-role login, payments, dashboards, and real-time booking features.</p>
