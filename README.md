@@ -199,56 +199,34 @@ Java | DSA Patterns | LeetCode Problems
       </p>
     </td>
   </tr>
-</table>
 
+  <!-- 👇 NEWLY ADDED PROJECTS 👇 -->
 
-## Open Source Contributions  
-<div align="center">
-
-<table>
   <tr>
-    <!-- OpenCV-Python -->
     <td width="50%" valign="top">
-      <h3>🔎 <a href="https://github.com/mohsinkhan85090/opencv-python">OpenCV-Python</a></h3>
-      <p>Contributed to the official <b>OpenCV-Python</b> bindings</b> for computer vision.</p>
+      <h3><a href="https://github.com/mohsinkhan85090/Lawvia">Lawvia</a></h3>
+      <p><b>LLM-based Legal ChatBot</b> using RAG, FAISS vector search, and Google Generative AI for Indian law assistance.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FAISS-393939?style=flat&logo=facebook&logoColor=white"/>
+        <img src="https://img.shields.io/badge/RAG-5C3EE8?style=flat&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vector%20DB-009688?style=flat&logo=databricks&logoColor=white"/>
       </p>
     </td>
-    <!-- Cura-Genie -->
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/mohsinkhan85090/Cura-Genie">Cura-Genie</a></h3>
-      <p>An AI-powered <b>desktop voice assistant</b> built with Python & OpenAI APIs.</p>
+      <h3><a href="https://github.com/mohsinkhan85090/Appointify">Appointify</a></h3>
+      <p><b>Full MERN Doctor Appointment App</b> with multi-role login, payments, dashboards, and real-time booking features.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <!-- Lore -->
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/mohsinkhan85090/lore">Lore</a></h3>
-      <p>Contributions to <b>data handling & ML utilities</b> improving usability.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=scikitlearn&logoColor=F7931E"/>
-      </p>
-    </td>
-    <!-- InstantSearch -->
-    <td width="50%" valign="top">
-      <h3>🔍 <a href="https://github.com/mohsinkhan85090/instantsearch">InstantSearch</a></h3>
-      <p>Improving <b>search interface tools</b> enabling fast & intuitive search experiences.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Search-4285F4?style=flat&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat&logo=razorpay&logoColor=white"/>
       </p>
     </td>
   </tr>
 </table>
 
-</div>
 
 ---
 
