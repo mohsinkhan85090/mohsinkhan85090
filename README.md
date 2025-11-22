@@ -171,7 +171,7 @@ Java | DSA Patterns | LeetCode Problems
     <img src="https://img.shields.io/badge/Google%20Generative%20AI-4285F4?style=flat&logo=google&logoColor=white"/>
   </p>
 </td>
-  
+ 
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mohsinkhan85090/VoiceBrowse">VoiceBrowse</a></h3>
       <p><b>Chrome extension for voice-based browsing</b> — navigate tabs, bookmarks & interact with AI.</p>
