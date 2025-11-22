@@ -145,15 +145,18 @@ Java | DSA Patterns | LeetCode Problems
         <img src="https://img.shields.io/badge/CI%2FCD-2F855A?style=flat&logo=git&logoColor=white"/>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mohsinkhan85090/VoiceBrowse">VoiceBrowse</a></h3>
-      <p><b>Chrome extension for voice-based browsing</b> — navigate tabs, bookmarks & interact with AI.</p>
+       <td width="50%" valign="top">
+      <h3><a href="https://github.com/mohsinkhan85090/Appointify">Appointify</a></h3>
+      <p><b>Full MERN Doctor Appointment App</b> with multi-role login, payments, dashboards, and real-time booking features.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Chrome%20API-4285F4?style=flat&logo=googlechrome&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat&logo=razorpay&logoColor=white"/>
       </p>
     </td>
+    
   </tr>
   <tr>
     <td width="50%" valign="top">
@@ -167,28 +170,29 @@ Java | DSA Patterns | LeetCode Problems
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/mohsinkhan85090/Appointify">Appointify</a></h3>
-      <p><b>Full MERN Doctor Appointment App</b> with multi-role login, payments, dashboards, and real-time booking features.</p>
+      <h3><a href="https://github.com/mohsinkhan85090/VoiceBrowse">VoiceBrowse</a></h3>
+      <p><b>Chrome extension for voice-based browsing</b> — navigate tabs, bookmarks & interact with AI.</p>
       <p>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat&logo=razorpay&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Chrome%20API-4285F4?style=flat&logo=googlechrome&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
       </p>
     </td>
+
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mohsinkhan85090/Legal-Chatbot">Legal Chatbot</a></h3>
-      <p><b>AI-powered legal advisor for Indian laws</b> providing instant, scenario-based guidance.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat&logo=google&logoColor=white"/>
-      </p>
-    </td>
+  <td width="50%" valign="top">
+  <h3><a href="https://github.com/mohsinkhan85090/Muffin-Assistant">Muffin Assistant</a></h3>
+  <p><b>AI-powered web assistant</b> built with Flask and Google Gemini, featuring modern UI, animations, and live theme switching.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat&logo=google&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  </p>
+</td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mohsinkhan85090/Yoga-Ai">Yoga-AI</a></h3>
       <p><b>AI-driven yoga posture recognition</b> with real-time feedback for better alignment.</p>
