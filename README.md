@@ -32,7 +32,7 @@ I’m a self-driven and curious developer currently pursuing my degree while bui
 <!--<img src="https://img.shields.io/badge/-C++-044F88?style=flat-square&logo=c%2B%2B">-->
 <img src="https://img.shields.io/badge/-C-1A4674?style=flat-square&logo=c">
 <img src="https://img.shields.io/badge/-npm-darkred?style=flat-square&logo=npm">
-<<img src="https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io">
+<img src="https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io">
 <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask">
 <img src="https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv">
 <img src="https://img.shields.io/badge/-HTML5-E34C26?style=flat-square&logo=html5&logoColor=white">
