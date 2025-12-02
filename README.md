@@ -57,7 +57,7 @@ I’m a  self-driven and curious developer currently pursuing my degree while bu
 <!--<img src="https://img.shields.io/badge/Scrimba-2B283A?style=flat-square&logo=scrimba&logoColor=white">
 <img src="https://img.shields.io/badge/C-%233A95E3.svg?style=flat-square&logo=apple&logoColor=white">-->
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white">
-<!--<a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
   </a> 
 
