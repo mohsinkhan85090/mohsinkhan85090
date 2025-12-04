@@ -19,7 +19,6 @@ I’m a  self-driven and curious developer currently pursuing my degree while bu
 -  How to reach me: [mohsinkhanaiml@gmail.com](mailto:mohsinkhanaiml@gmail.com)  
 -  Fun fact:- “Code flows like breath, logic aligns like posture — every step is AI in motion.”
 ---
-
 <h2 align="left">Languages and Tools</h2>
 
 <p align="center"> 
