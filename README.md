@@ -48,7 +48,7 @@ I’m a  self-driven and curious developer currently pursuing my degree while bu
 <img src="https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase"> 
 <img src="https://img.shields.io/badge/-Git-darkred?style=flat-square&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github">
-<!--<img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">-->
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
 <img src="https://img.shields.io/badge/-Canva-01C2CC?style=flat-square&logo=Canva&logoColor=white">
 <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white">
