@@ -272,8 +272,9 @@ Java | DSA Patterns | LeetCode Problems
 
 <!-- Streak -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/docs/demo.svg?user=mohsinkhan85090&theme=tokyonight" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=mohsinkhan85090&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 
 
