@@ -270,13 +270,11 @@ Java | DSA Patterns | LeetCode Problems
 </div>
 
 
-<!-- Streak 
+<!-- Streak -->
 <p align="center">
-  <img src="https://github-streak-stats.vercel.app/?user=mohsinkhan85090&theme=tokyonight" alt="GitHub Streak" />
-</p> -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=mohsinkhan85090&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/docs/demo.svg?user=mohsinkhan85090&theme=tokyonight" />
 </p>
+
 
 
 
