@@ -284,7 +284,7 @@ Java | DSA Patterns | LeetCode Problems
 
 <!-- Profile Details -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohsinkhan85090&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohsinkhan85090&theme=github_dark" alt="Profile Details" />
 </p>
 
 
@@ -307,7 +307,7 @@ Java | DSA Patterns | LeetCode Problems
 
 ## Contributions in the last year
 
-![Mohsin's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=mohsinkhan85090&theme=react-light)
+![Mohsin's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=mohsinkhan85090&theme=react-dark)
 
 
 ---
