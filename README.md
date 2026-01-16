@@ -283,11 +283,10 @@ Java | DSA Patterns | LeetCode Problems
 
 
 <!-- Profile Details -->
-<h2 align="center" style="color:#00ffff;">
-  Mohsin Khan (@mohsinkhan85090)
-</h2>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohsinkhan85090&theme=tokyonight" alt="Profile Details" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohsinkhan85090&theme=nord_dark" />
+
 </p>
 
 
