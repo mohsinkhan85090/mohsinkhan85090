@@ -285,8 +285,7 @@ Java | DSA Patterns | LeetCode Problems
 <!-- Profile Details -->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mohsinkhan85090&title_color=00ffff&text_color=ffffff&bg_color=0d1117" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohsinkhan85090&theme=tokyonight" />
 </p>
 
 
