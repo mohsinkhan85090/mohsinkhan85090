@@ -253,7 +253,7 @@ Java | DSA Patterns | LeetCode Problems
   <tr>
     <!-- Statistics -->
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohsinkhan85090&theme=tokyonight" alt="Statistics" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohsinkhan85090&theme=monokai" alt="Statistics" />
     </td>
    
 <!-- Top Languages -->
@@ -284,7 +284,7 @@ Java | DSA Patterns | LeetCode Problems
 
 <!-- Profile Details -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohsinkhan85090&theme=github_dark" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohsinkhan85090&theme=monokai" alt="Profile Details" />
 </p>
 
 
