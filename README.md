@@ -307,7 +307,7 @@ Java | DSA Patterns | LeetCode Problems
 
 ## Contributions in the last year
 
-![Mohsin's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=mohsinkhan85090&theme=react-dark)
+![Mohsin's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=mohsinkhan85090&theme=react-light)
 
 
 ---
