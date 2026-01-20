@@ -292,8 +292,6 @@ Java | DSA Patterns | LeetCode Problems
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohsinkhan85090&theme=tokyonight" />
 </p>
 
-
-
 ---
 
 <!-- Snake Animation -->
