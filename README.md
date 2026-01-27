@@ -8,7 +8,6 @@
 
 
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohsin%20Khan-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mohsin-khan-aiml/)
 [![GitHub followers](https://img.shields.io/github/followers/mohsinkhan85090?label=Follow&style=social)](https://github.com/mohsinkhan85090)
 [![HackerRank](https://img.shields.io/badge/HackerRank-5★-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/2k23_psitaiml237)
