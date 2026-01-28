@@ -20,7 +20,6 @@ I’m a  self-driven and curious developer currently pursuing my degree while bu
 -  Fun fact:- “Code flows like breath, logic aligns like posture — every step is AI in motion.”
 ---
 <h2 align="left">Languages and Tools</h2>
-
 <p align="center"> 
 
 <img src="https://img.shields.io/badge/-JavaScript-233233?style=flat-square&logo=javascript&logoColor=23F7DF1E">
