@@ -1,8 +1,6 @@
 [![Mohsin Khan](https://github.com/mohsinkhan85090/mohsinkhan85090/blob/main/2.png)](https://mohsinkhan85090.github.io/portfolio)
 [Visit My Portfolio 🔗](https://mohsinkhan85090.github.io/portfolio)
 
-
-
 ---
 
 
