@@ -129,7 +129,7 @@ Java | DSA Patterns | LeetCode Problems
 [![Repo](https://img.shields.io/badge/DSA%20Solutions-Java%20%7C%20LeetCode-blueviolet?style=flat-square&logo=java)](https://github.com/mohsinkhan85090/DSA-Solutions)
 
 ---
-## Featured Projects
+<!--## Featured Projects
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -230,7 +230,14 @@ Java | DSA Patterns | LeetCode Problems
   </tr>
 
 
-</table>
+</table> -->
+
+<h2 align="left">📂 Projects</h2>
+
+* 🚀 **[Phishing Threat Detection System](https://github.com)** – ML-based security tool to identify malicious threats.
+* 🛠️ **[Smart Chrome Extension](https://github.com)** – A utility tool built to enhance web productivity.
+* 🧘 **[Yoga Posture Recognition](https://github.com)** – Real-time AI system using OpenCV for posture correction.
+* 🌐 **[Personal Portfolio Website](https://mohsinkhan85090.github.io)** – My interactive portfolio showcasing my journey and skills.
 
 
 
