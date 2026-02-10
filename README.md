@@ -235,9 +235,11 @@ Java | DSA Patterns | LeetCode Problems
 ### Featured Projects
 
 * [parking-management](https://github.com)
-* [Lawvia](https://github.com)
+* [Lawvia- A Legal Chatbot](https://github.com)
 * [Appointify](https://github.com)
 * [muffin](https://github.com)
+* [Monolith-to-Microservice-Grievance](https://github.com)
+* [HealthCare-Management-System](https://github.com)
 * [Yoga-Ai](https://github.com)
 * [VoiceBrowse](https://github.com)
 * [phishing-Detection](https://github.com)
