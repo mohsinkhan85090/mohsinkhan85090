@@ -232,12 +232,18 @@ Java | DSA Patterns | LeetCode Problems
 
 </table> -->
 
-<h2 align="left">📂 Projects</h2>
+<h2 align="left">🚀 Featured Projects</h2>
 
-* 🚀 **[Phishing Threat Detection System](https://github.com)** – ML-based security tool to identify malicious threats.
-* 🛠️ **[Smart Chrome Extension](https://github.com)** – A utility tool built to enhance web productivity.
-* 🧘 **[Yoga Posture Recognition](https://github.com)** – Real-time AI system using OpenCV for posture correction.
-* 🌐 **[Personal Portfolio Website](https://mohsinkhan85090.github.io)** – My interactive portfolio showcasing my journey and skills.
+ **[Appointify](https://github.com)** .
+ **[parking-management](https://github.com)** 
+ **[Yoga-Ai](https://github.com)** 
+ **[VoiceBrowse](https://github.com)** 
+ **[phishing-Detection](https://github.com)** 
+ **[Lawvia](https://github.com)** 
+ **[ML-Model-Deployment](https://github.com)**
+ **[Grievance-Microservice](https://github.com)**
+ **[Movie-Recommendation-System](https://github.com)**
+
 
 
 
