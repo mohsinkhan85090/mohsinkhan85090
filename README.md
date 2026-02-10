@@ -246,7 +246,7 @@ Java | DSA Patterns | LeetCode Problems
 * [ML-Model-Deployment-with-Docker-Kubernetes-CI-CD](https://github.com)
 * [Movie-Recommendation-System](https://github.com)-->
 
-#### Featured Projects
+## 📈 Featured Projects
 
 <h4><a href="https://github.com">parking-management</a></h4>
 <h4><a href="https://github.com">Lawvia - A Legal Chatbot</a></h4>
