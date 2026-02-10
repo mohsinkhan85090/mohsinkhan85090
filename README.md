@@ -247,8 +247,18 @@ Java | DSA Patterns | LeetCode Problems
 * [Movie-Recommendation-System](https://github.com)-->
 
 ## 📈 Featured Projects
-
-<h4><a href="https://github.com">parking-management</a></h4>
+* [parking-management](https://github.com)
+* [Lawvia- A Legal Chatbot](https://github.com)
+* [Appointify](https://github.com)
+* [muffin](https://github.com)
+* [Monolith-to-Microservice-Grievance](https://github.com)
+* [HealthCare-Management-System](https://github.com)
+* [Yoga-Ai](https://github.com)
+* [VoiceBrowse](https://github.com)
+* [phishing-Detection](https://github.com)
+* [ML-Model-Deployment-with-Docker-Kubernetes-CI-CD](https://github.com)
+* [Movie-Recommendation-System](https://github.com)
+<!--<h4><a href="https://github.com">parking-management</a></h4>
 <h4><a href="https://github.com">Lawvia - A Legal Chatbot</a></h4>
 <h4><a href="https://github.com">Appointify</a></h4>
 <h4><a href="https://github.com">muffin</a></h4>
@@ -258,7 +268,7 @@ Java | DSA Patterns | LeetCode Problems
 <h4><a href="https://github.com">VoiceBrowse</a></h4>
 <h4><a href="https://github.com">phishing-Detection</a></h4>
 <h4><a href="https://github.com">ML-Model-Deployment-with-Docker-Kubernetes-CI-CD</a></h4>
-<h4><a href="https://github.com">Movie-Recommendation-System</a></h4>
+<h4><a href="https://github.com">Movie-Recommendation-System</a></h4>-->
 
 
 
