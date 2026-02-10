@@ -232,17 +232,10 @@ Java | DSA Patterns | LeetCode Problems
 
 </table> -->
 
-<h2 align="left">🚀 Featured Projects</h2>
+<h2 align="left"> Featured Projects</h2>
 
- **[Appointify](https://github.com)** .
- **[parking-management](https://github.com)** 
- **[Yoga-Ai](https://github.com)** 
- **[VoiceBrowse](https://github.com)** 
- **[phishing-Detection](https://github.com)** 
- **[Lawvia](https://github.com)** 
- **[ML-Model-Deployment](https://github.com)**
- **[Grievance-Microservice](https://github.com)**
- **[Movie-Recommendation-System](https://github.com)**
+[Appointify](https://github.com) . [parking-management](https://github.com) . [Yoga-Ai](https://github.com) . [VoiceBrowse](https://github.com) . [phishing-Detection](https://github.com) . [Lawvia](https://github.com) . [ML-Model-Deployment](https://github.com) . [Grievance-Microservice](https://github.com) . [Movie-Recommendation-System](https://github.com)
+**[Movie-Recommendation-System](https://github.com)**
 
 
 
