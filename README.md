@@ -234,13 +234,14 @@ Java | DSA Patterns | LeetCode Problems
 
 ### Featured Projects
 
-* [Appointify](https://github.com)
 * [parking-management](https://github.com)
+* [Lawvia](https://github.com)
+* [Appointify](https://github.com)
+* [muffin](https://github.com)
 * [Yoga-Ai](https://github.com)
 * [VoiceBrowse](https://github.com)
 * [phishing-Detection](https://github.com)
-* [Lawvia](https://github.com)
-* [ML-Model-De](https://github.com)
+* [ML-Model-Deployment-with-Docker-Kubernetes-CI-CD](https://github.com)
 * [Movie-Recommendation-System](https://github.com)
 
 
