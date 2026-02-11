@@ -22,7 +22,7 @@ I’m a  self-driven and curious developer currently pursuing my degree while bu
 -  How to reach me: [mohsinkhanaiml@gmail.com](mailto:mohsinkhanaiml@gmail.com)  
 -  Fun fact:- “Code flows like breath, logic aligns like posture — every step is AI in motion.”
 ---
-<h2 align="left">Languages and Tools</h2>
+<!--<h2 align="left">Languages and Tools</h2>
 <p align="center"> 
 
 <img src="https://img.shields.io/badge/-JavaScript-233233?style=flat-square&logo=javascript&logoColor=23F7DF1E">
@@ -30,7 +30,7 @@ I’m a  self-driven and curious developer currently pursuing my degree while bu
 <img src="https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=Python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/-React-232023?style=flat-square&logo=react&logoColor=61DBFB">
 <img src="https://img.shields.io/badge/-java-orange?style=flat-square&logo=Java">
-<!--<img src="https://img.shields.io/badge/-C++-044F88?style=flat-square&logo=c%2B%2B">-->
+<!--<img src="https://img.shields.io/badge/-C++-044F88?style=flat-square&logo=c%2B%2B">
 <img src="https://img.shields.io/badge/-C-1A4674?style=flat-square&logo=c">
 <img src="https://img.shields.io/badge/-npm-darkred?style=flat-square&logo=npm">
 <img src="https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io">
@@ -47,7 +47,7 @@ I’m a  self-driven and curious developer currently pursuing my degree while bu
 <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white">
 <img src="https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel&logoColor=white">
  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker">
-<!--<img src="https://img.shields.io/badge/-Digital%20Ocean-black?style=flat-square&logo=digitalocean">!-->
+<!--<img src="https://img.shields.io/badge/-Digital%20Ocean-black?style=flat-square&logo=digitalocean">
 <img src="https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase"> 
 <img src="https://img.shields.io/badge/-Git-darkred?style=flat-square&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github">
@@ -55,7 +55,7 @@ I’m a  self-driven and curious developer currently pursuing my degree while bu
 <img src="https://img.shields.io/badge/-Canva-01C2CC?style=flat-square&logo=Canva&logoColor=white">
 <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white">
-<!--<img src="https://img.shields.io/badge/Scrimba-2B283A?style=flat-square&logo=scrimba&logoColor=white">-->
+<!--<img src="https://img.shields.io/badge/Scrimba-2B283A?style=flat-square&logo=scrimba&logoColor=white">
 <img src="https://img.shields.io/badge/C-%233A95E3.svg?style=flat-square&logo=apple&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white">
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
@@ -113,12 +113,10 @@ I’m a  self-driven and curious developer currently pursuing my degree while bu
   <!--
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>-->
+  </a>
 
   
-</p>
-
----
+</p>-->
 
 ###  [📈 DSA Java Solutions](https://github.com/mohsinkhan85090/DSA-Solutions)  
 A personal collection of Data Structures & Algorithms problems solved in Java.  
