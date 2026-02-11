@@ -124,7 +124,7 @@ Each problem includes the description, example inputs/outputs, and a clean expla
 Tech Stack: Java · DSA · Algorithms · LeetCode Patterns
 Java | DSA Patterns | LeetCode Problems
 
-[![Repo](https://img.shields.io/badge/DSA%20Solutions-Java%20%7C%20-blueviolet?style=flat-square&logo=java)](https://github.com/mohsinkhan85090/DSA-Solutions)
+[![Repo](https://img.shields.io/badge/DSA%20Solutions-Java%20-blueviolet?style=flat-square&logo=java)](https://github.com/mohsinkhan85090/DSA-Solutions)
 
 ---
 <!--## Featured Projects
@@ -320,7 +320,6 @@ Java | DSA Patterns | LeetCode Problems
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohsinkhan85090&theme=tokyonight" />
 </p>
 
----
 
 <!-- Snake Animation 
 <div align="center">
@@ -332,9 +331,6 @@ Java | DSA Patterns | LeetCode Problems
 </picture>
 
 </div>-->
----
-
-## Contributions in the last year
 
 ![Mohsin's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=mohsinkhan85090&theme=react-dark)
 
