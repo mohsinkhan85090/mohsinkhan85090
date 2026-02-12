@@ -241,7 +241,7 @@ Each problem includes the description, example inputs/outputs, and a clean expla
 * [Movie-Recommendation-System](https://github.com)-->
 
 ## 📈 Featured Projects
-* [Parking-management]((https://github.com/mohsinkhan85090/parking-management))-Parking management system with QR code support.
+* [Parking-management](https://github.com/mohsinkhan85090/parking-management)-Parking management system with QR code support.
 * [Lawvia- A Legal Chatbot](https://github.com)
 * [Appointify](https://github.com)
 * [muffin](https://github.com)
