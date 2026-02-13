@@ -247,11 +247,11 @@ Each problem includes the description, example inputs/outputs, and a clean expla
 * [muffin](https://github.com/mohsinkhan85090/Muffin)- AI assistant web app powered by Google Gemini & Flask.
 * [Monolith-to-Microservice-Grievance](https://github.com/mohsinkhan85090/Monolith-to-Microservice-Grievance)- Cloud-Native, Full-Stack Grievance Redressal Service designed to replace an outdated, monolithic system. 
 * [HealthCare-Management-System](https://github.com/mohsinkhan85090/Healthcare-Appointment-System)- A full-stack web application for managing healthcare appointments, doctors, and patients.
-* [Yoga-Ai](https://github.com/mohsinkhan85090/Yoga-Ai)-AI-Powered Yoga Posture Recognition Using Hand & Pose Detection. 
+* [Yoga-Ai](https://github.com/mohsinkhan85090/Yoga-Ai)-AI Powered Yoga Posture Recognition Using Hand & Pose Detection. 
 * [VoiceBrowse](https://github.com/mohsinkhan85090/VoiceBrowse)- A Chrome extension 
 * [phishing-Detection](https://github.com/mohsinkhan85090/phishing-Detection)-Phishing Detection System
 * [ML-Model-Deployment-with-Docker-Kubernetes-CI-CD](https://github.com/mohsinkhan85090/ML-Model-Deployment-with-Docker-Kubernetes-CI-CD)-bridge the gap between developing a Machine Learning model and getting that model used by real customers.
-* [Movie-Recommendation-System](https://github.com/mohsinkhan85090/Movie-Recommendation-System)-Movie Recommender System
+* [Movie-Recommendation-System](https://github.com/mohsinkhan85090/Movie-Recommendation-System)-Movie Recommender System.
 <!--<h4><a href="https://github.com">parking-management</a></h4>
 <h4><a href="https://github.com">Lawvia - A Legal Chatbot</a></h4>
 <h4><a href="https://github.com">Appointify</a></h4>
