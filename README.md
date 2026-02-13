@@ -242,16 +242,16 @@ Each problem includes the description, example inputs/outputs, and a clean expla
 
 ## 📈 Featured Projects
 * [Parking-management](https://github.com/mohsinkhan85090/parking-management)-Parking management system with QR code support.
-* [Lawvia- A Legal Chatbot](https://github.com)
-* [Appointify](https://github.com)
-* [muffin](https://github.com)
-* [Monolith-to-Microservice-Grievance](https://github.com)
-* [HealthCare-Management-System](https://github.com)
-* [Yoga-Ai](https://github.com)
-* [VoiceBrowse](https://github.com)
-* [phishing-Detection](https://github.com)
-* [ML-Model-Deployment-with-Docker-Kubernetes-CI-CD](https://github.com)
-* [Movie-Recommendation-System](https://github.com)
+* [Lawvia- Legal Chatbot](https://github.com/mohsinkhan85090/Lawvia)- Chatbot designed to provide legal information.
+* [Appointify](https://github.com/mohsinkhan85090/Appointify)- Doctor Appointment Booking Web App (MERN Stack).
+* [muffin](https://github.com/mohsinkhan85090/Muffin)- AI assistant web app powered by Google Gemini & Flask.
+* [Monolith-to-Microservice-Grievance](https://github.com/mohsinkhan85090/Monolith-to-Microservice-Grievance)- Cloud-Native, Full-Stack Grievance Redressal Service designed to replace an outdated, monolithic system. 
+* [HealthCare-Management-System](https://github.com/mohsinkhan85090/Healthcare-Appointment-System)- A full-stack web application for managing healthcare appointments, doctors, and patients.
+* [Yoga-Ai](https://github.com/mohsinkhan85090/Yoga-Ai)-AI-Powered Yoga Posture Recognition Using Hand & Pose Detection. 
+* [VoiceBrowse](https://github.com/mohsinkhan85090/VoiceBrowse)- A Chrome extension 
+* [phishing-Detection](https://github.com/mohsinkhan85090/phishing-Detection)-Phishing Detection System
+* [ML-Model-Deployment-with-Docker-Kubernetes-CI-CD](https://github.com/mohsinkhan85090/ML-Model-Deployment-with-Docker-Kubernetes-CI-CD)-bridge the gap between developing a Machine Learning model and getting that model used by real customers.
+* [Movie-Recommendation-System](https://github.com/mohsinkhan85090/Movie-Recommendation-System)-Movie Recommender System
 <!--<h4><a href="https://github.com">parking-management</a></h4>
 <h4><a href="https://github.com">Lawvia - A Legal Chatbot</a></h4>
 <h4><a href="https://github.com">Appointify</a></h4>
