@@ -250,7 +250,7 @@ Each problem includes the description, example inputs/outputs, and a clean expla
 * [Yoga-Ai](https://github.com/mohsinkhan85090/Yoga-Ai)-AI Powered Yoga Posture Recognition Using Hand & Pose Detection. 
 * [VoiceBrowse](https://github.com/mohsinkhan85090/VoiceBrowse)- A Chrome extension 
 * [phishing-Detection](https://github.com/mohsinkhan85090/phishing-Detection)-Phishing Detection System
-* [ML-Model-Deployment-with-Docker-Kubernetes-CI-CD](https://github.com/mohsinkhan85090/ML-Model-Deployment-with-Docker-Kubernetes-CI-CD)-bridge the gap between developing a Machine Learning model and getting that model used by real customers.
+* [ML-Model-Deployment-with-Docker-Kubernetes-CI-CD](https://github.com/mohsinkhan85090/ML-Model-Deployment-with-Docker-Kubernetes-CI-CD)-Bridge the gap between developing a Machine Learning model and getting that model used by real customers.
 * [Movie-Recommendation-System](https://github.com/mohsinkhan85090/Movie-Recommendation-System)-Movie Recommender System.
 <!--<h4><a href="https://github.com">parking-management</a></h4>
 <h4><a href="https://github.com">Lawvia - A Legal Chatbot</a></h4>
