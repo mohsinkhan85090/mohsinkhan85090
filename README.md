@@ -6,7 +6,7 @@
 
 <h2 align="left">Summary</h2>
 
-Artificial Intelligence & Machine Learning student | Aspiring Software Developer | Passionate about Cloud & AI Technologies.
+Artificial Intelligence & Machine Learning student | Aspiring Software Developer | Passionate about AI Technologies.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohsin%20Khan-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mohsin-khan-aiml/)
