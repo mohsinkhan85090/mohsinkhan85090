@@ -264,17 +264,30 @@ Each problem includes the description, example inputs/outputs, and a clean expla
 
 
 
-## 🌐 Let's Connect:
+## 🌐 Let's Connect
 
+📧 **Email:**  
 [mohsinkhanaiml@gmail.com](mailto:mohsinkhanaiml@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohsin%20Khan-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mohsin-khan-aiml/)
+<p align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%20%7C%201715%2B_Rating-yellow?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/mohsin85090/)
+<a href="https://www.linkedin.com/in/mohsin-khan-aiml/">
+  <img src="https://img.shields.io/badge/LinkedIn-Mohsin%20Khan-blue?logo=linkedin&style=for-the-badge" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-%20%7C%20mohsinkhan85090-black?style=flat-square&logo=github)](https://github.com/mohsinkhan85090)
+<a href="https://leetcode.com/u/mohsin85090/">
+  <img src="https://img.shields.io/badge/LeetCode-1715%2B_Rating-orange?logo=leetcode&style=for-the-badge" />
+</a>
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/2k23_psitaiml237)
+<a href="https://github.com/mohsinkhan85090">
+  <img src="https://img.shields.io/badge/GitHub-mohsinkhan85090-black?logo=github&style=for-the-badge" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/2k23_psitaiml237">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=hackerrank&style=for-the-badge&logoColor=white" />
+</a>
+
+</p>
 
 
 
