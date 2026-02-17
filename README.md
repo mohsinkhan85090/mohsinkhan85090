@@ -25,7 +25,7 @@ I’m a  self-driven and curious developer currently pursuing my degree while bu
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%20%7C%201715%2B_Rating-yellow?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/mohsin85090/)
 
-[![GitHub | Mohsin Khan](https://img.shields.io/badge/GitHub-%20Mohsin%20Khan-black?style=flat-square&logo=github)](https://github.com/mohsinkhan85090)
+[![GitHub](https://img.shields.io/badge/GitHub-%20%7C%20mohsinkhan85090-black?style=flat-square&logo=github)](https://github.com/mohsinkhan85090)
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/2k23_psitaiml237)
 
