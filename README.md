@@ -17,17 +17,14 @@ I’m a  self-driven and curious developer currently pursuing my degree while bu
 -  I’m looking to collaborate on: AI & Web Development Projects  
 -  I’m looking for help with: Open-source ML Projects
 
-### How to reach me:
+###🌐 Let's Connect:
 
 📧 [mohsinkhanaiml@gmail.com](mailto:mohsinkhanaiml@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohsin%20Khan-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mohsin-khan-aiml/)
-
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/2k23_psitaiml237)
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-%20%7C%201715%2B_Rating-yellow?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/mohsin85090/)
 
--  Fun fact:- “Code flows like breath, logic aligns like posture — every step is AI in motion.”
 ---
 <!--<h2 align="left">Languages and Tools</h2>
 <p align="center"> 
