@@ -267,31 +267,30 @@ Each problem includes the description, example inputs/outputs, and a clean expla
 ## 🌐 Let's Connect
 
 <p align="center">
-  
-📧 <b>Email:</b><br>
-<a href="mailto:mohsinkhanaiml@gmail.com">mohsinkhanaiml@gmail.com</a>
-
+  <b>📧 Email:</b><br>
+  <a href="mailto:mohsinkhanaiml@gmail.com">mohsinkhanaiml@gmail.com</a>
 </p>
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/mohsin-khan-aiml/">
-  <img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=808080"/>
 </a>
 
 <a href="https://leetcode.com/u/mohsin85090/">
-  <img src="https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116&color=808080"/>
 </a>
 
 <a href="https://github.com/mohsinkhan85090">
-  <img src="https://img.shields.io/badge/GitHub_Profile-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=808080"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/2k23_psitaiml237">
-  <img src="https://img.shields.io/badge/HackerRank_Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2EC866&color=808080"/>
 </a>
 
 </p>
+
 
 
 
