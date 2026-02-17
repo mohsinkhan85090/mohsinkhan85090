@@ -8,22 +8,21 @@
 
 Artificial Intelligence & Machine Learning student | Aspiring Software Developer | Passionate about AI Technologies.
 
-
-
-
-
 I’m a  self-driven and curious developer currently pursuing my degree while building real-world AI and web projects. From detecting phishing threats with machine learning to developing smart Chrome extension and yoga posture recognition systems — I love exploring how technology solves problems.
 
 -  I’m looking to collaborate on: AI & Web Development Projects  
 -  I’m looking for help with: Open-source ML Projects
 
-###🌐 Let's Connect:
+# 🌐 Let's Connect:
 
 📧 [mohsinkhanaiml@gmail.com](mailto:mohsinkhanaiml@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohsin%20Khan-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mohsin-khan-aiml/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/2k23_psitaiml237)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%20%7C%201715%2B_Rating-yellow?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/mohsin85090/)
+[![LinkedIn](https://img.shields.io)](https://www.linkedin.com)
+
+[![HackerRank](https://img.shields.io)](https://www.hackerrank.com)
+
+[![LeetCode](https://img.shields.io)](https://leetcode.com)
+
 
 ---
 <!--<h2 align="left">Languages and Tools</h2>
