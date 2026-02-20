@@ -120,6 +120,7 @@ Each problem includes the description, example inputs/outputs, and a clean expla
 Building and experimenting with ML models, NLP pipelines, and end-to-end implementations.
 Notes & Practical Implementations.
 
+[![Repo](https://img.shields.io/badge/Machine%20Learning-Python%20%7C%20ML-brightgreen?style=flat-square&logo=python)](https://github.com/mohsinkhan85090/Machine-Learning)
 ---
 
 <!--## Featured Projects
