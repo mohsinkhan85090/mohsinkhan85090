@@ -122,11 +122,10 @@ Each problem includes the description, example inputs/outputs, and a clean expla
 
 ---
 
-## 🤖 Machine Learning
+### [📈 Machine Learning](https://github.com/mohsinkhan85090/Machine-Learning)
 
 Building and experimenting with ML models, NLP pipelines, and end-to-end implementations.
-
-🔗 **[Machine Learning](https://github.com/mohsinkhan85090/Machine-Learning)** – Notes & Practical Implementations.
+Notes & Practical Implementations.
 ---
 
 <!--## Featured Projects
