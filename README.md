@@ -121,6 +121,14 @@ Each problem includes the description, example inputs/outputs, and a clean expla
 [![Repo](https://img.shields.io/badge/DSA%20Solutions-Java%20-blueviolet?style=flat-square&logo=java)](https://github.com/mohsinkhan85090/DSA-Solutions)
 
 ---
+
+## 🤖 Machine Learning
+
+Building and experimenting with ML models, NLP pipelines, and end-to-end implementations.
+
+🔗 **[Machine Learning](https://github.com/mohsinkhan85090/Machine-Learning)** – Notes & Practical Implementations.
+---
+
 <!--## Featured Projects
 <table>
   <tr>
