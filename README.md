@@ -6,14 +6,8 @@
 
 <h2 align="left">Summary</h2>
 
-Artificial Intelligence & Machine Learning student | Aspiring Software Developer | Passionate about AI Technologies.
-
-I’m a  self-driven and curious developer currently pursuing my degree while building real-world AI and web projects. From detecting phishing threats with machine learning to developing smart Chrome extension and yoga posture recognition systems — I love exploring how technology solves problems.
-
--  I’m looking to collaborate on: AI & Web Development Projects  
--  I’m looking for help with: Open-source ML Projects
-
-
+AIML Student | Aspiring Software Development Engineer  
+Engineering scalable applications and intelligent ML systems with real-world impact.
 
 
 
