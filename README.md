@@ -107,8 +107,9 @@ Engineering scalable applications and intelligent ML systems with real-world imp
 
   
 </p>-->
-
-<h3 align="left">  [📈 DSA  Solutions](https://github.com/mohsinkhan85090/DSA-Solutions)  </h3>
+<h3 align="left">
+  <a href="https://github.com/mohsinkhan85090/DSA-Solutions">📈 DSA  Solutions</a>
+</h3>
 A personal collection of Data Structures & Algorithms problems solved in Java.  
 Each problem includes the description, example inputs/outputs, and a clean explanation. 
 
@@ -116,7 +117,9 @@ Each problem includes the description, example inputs/outputs, and a clean expla
 
 
 
-<h3 align="left">[📈 Machine Learning](https://github.com/mohsinkhan85090/Machine-Learning)</h3>
+<h3 align="left">
+  <a href="https://github.com/mohsinkhan85090/Machine-Learning">📈 Machine Learning</a>
+</h3>
 Building and experimenting with ML models, NLP pipelines, and end-to-end implementations.
 Notes & Practical Implementations.
 
