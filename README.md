@@ -4,7 +4,7 @@
 ---
 
 
-<h2 align="left">Summary</h2>
+<h2 align="left">⚡Summary</h2>
 
 AIML Student | Aspiring Software Development Engineer  
 Engineering scalable applications and intelligent ML systems with real-world impact.
@@ -113,6 +113,7 @@ Engineering scalable applications and intelligent ML systems with real-world imp
 A personal collection of Data Structures & Algorithms problems solved in Java.  
 Each problem includes the description, example inputs/outputs, and a clean explanation. 
 
+
 [![Repo](https://img.shields.io/badge/DSA%20Solutions-Java%20-blueviolet?style=flat-square&logo=java)](https://github.com/mohsinkhan85090/DSA-Solutions)
 
 
@@ -124,6 +125,7 @@ Building and experimenting with ML models, NLP pipelines, and end-to-end impleme
 Notes & Practical Implementations.
 
 [![Repo](https://img.shields.io/badge/Machine%20Learning-Python-blue?style=flat-square&logo=python)](https://github.com/mohsinkhan85090/Machine-Learning)
+
 ---
 
 <!--## Featured Projects
