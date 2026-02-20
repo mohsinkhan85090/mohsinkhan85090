@@ -13,7 +13,7 @@ I’m a  self-driven and curious developer currently pursuing my degree while bu
 -  I’m looking to collaborate on: AI & Web Development Projects  
 -  I’m looking for help with: Open-source ML Projects
 
----
+
 
 
 
@@ -120,7 +120,7 @@ Each problem includes the description, example inputs/outputs, and a clean expla
 
 [![Repo](https://img.shields.io/badge/DSA%20Solutions-Java%20-blueviolet?style=flat-square&logo=java)](https://github.com/mohsinkhan85090/DSA-Solutions)
 
----
+
 
 ### [📈 Machine Learning](https://github.com/mohsinkhan85090/Machine-Learning)
 Building and experimenting with ML models, NLP pipelines, and end-to-end implementations.
