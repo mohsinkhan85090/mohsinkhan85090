@@ -12,9 +12,6 @@ Engineering scalable applications and intelligent ML systems with real-world imp
 
 </div>
 
-
-
-
 <!--<h2 align="left">Languages and Tools</h2>
 <p align="center"> 
 
@@ -354,7 +351,6 @@ Notes & Practical Implementations.
 </div>-->
 
 ![Mohsin's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=mohsinkhan85090&theme=react-dark)
-
 
 ---
 
