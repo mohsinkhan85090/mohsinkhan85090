@@ -7,7 +7,7 @@
 
 <h2>Mohsin Khan</h2>
 
-AIML Student | Aspiring Software Development Engineer  
+Artificial Intelligence & Machine Learning Student | Aspiring Software Development Engineer  
 Engineering scalable applications and intelligent ML systems with real-world impact.
 
 </div>
