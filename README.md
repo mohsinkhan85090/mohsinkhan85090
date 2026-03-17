@@ -1,5 +1,4 @@
-[![Mohsin Khan](https://github.com/mohsinkhan85090/mohsinkhan85090/blob/main/3.png)](https://mohsinkhan85090.github.io/portfolio)
-[Visit My Portfolio 🔗](https://moh sinkhan85090.github.io/portfolio)
+[![Mohsin Khan](https://github.com/mohsinkhan85090/mohsinkhan85090/blob/main/3.png)](https://mohsinkhan85090.github.io/portfolio)[Visit My Portfolio 🔗](https://moh sinkhan85090.github.io/portfolio)
 
 <div align="center">
 
