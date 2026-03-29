@@ -246,6 +246,11 @@ Notes & Practical Implementations.
 * [Movie-Recommendation-System](https://github.com)-->
 
 ## 📈 Featured Projects
+* [Urban Mobility AI – LLM for Logistical Analysis](https://github.com/mohsinkhan85090/Urban-Mobility-AI---LLM-for-Logistical-Analysis)  
+  AI-powered system leveraging Large Language Models (LLMs) to analyze traffic patterns, optimize logistics, and support smart city decision-making.
+
+* [Violence Detection System](https://github.com/mohsinkhan85090/Violence_Detection)  
+  Computer vision-based system for real-time detection of violent activities using deep learning techniques for enhanced public safety.
 * [Parking-management](https://github.com/mohsinkhan85090/parking-management)-Parking management system with QR code support.
 * [Lawvia- Legal Chatbot](https://github.com/mohsinkhan85090/Lawvia)- Chatbot designed to provide legal information.
 * [Appointify](https://github.com/mohsinkhan85090/Appointify)- Doctor Appointment Booking Web App (MERN Stack).
