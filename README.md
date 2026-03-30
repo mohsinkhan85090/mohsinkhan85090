@@ -2,7 +2,6 @@
 
 <div align="center">
 
-
 <h2>Mohsin Khan</h2>
 
 Artificial Intelligence & Machine Learning Student | Aspiring Software Development Engineer.
