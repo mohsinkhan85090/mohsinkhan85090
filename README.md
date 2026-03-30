@@ -3,7 +3,6 @@
 <div align="center">
 <h2>Mohsin Khan</h2>
 
-
 Artificial Intelligence & Machine Learning Student | Aspiring Software Development Engineer.
 Engineering scalable applications and intelligent ML systems with real-world impact.
 
