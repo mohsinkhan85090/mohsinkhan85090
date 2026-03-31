@@ -243,6 +243,28 @@ Notes & Practical Implementations.
 * [ML-Model-Deployment-with-Docker-Kubernetes-CI-CD](https://github.com)
 * [Movie-Recommendation-System](https://github.com)-->
 
+## 🛠️ Open Source Contributions
+*Active contributor to global organizations, focusing on web standards, security, and numerical libraries.*
+
+### 🏛️ [Joomla! CMS](https://github.com)
+*   **Feature:** [Support array for image field in schemaorg plugin](https://github.com/pull/47211) 
+*   **Impact:** Enhanced SEO capabilities for the Joomla core. Engaged in extensive 31-comment technical review to ensure enterprise-grade code compatibility.
+*   **Tech:** PHP, CMS Architecture, Schema.org Standards.
+
+### 🧪 [stdlib-js](https://github.com)
+*   **Feature:** [feat: add parse-args CLI utility](https://github.com/pulls?q=is%3Apr+author%3Amohsinkhan85090)
+*   **Impact:** Implemented a high-performance command-line argument parser for the fundamental numerical library for JavaScript/TypeScript.
+*   **Tech:** JavaScript, CLI Tooling, Algorithmic Parsing.
+
+### 🛡️ [OWASP BLT](https://github.com)
+*   **Feature:** [feat: allow dynamic localhost origins for local development](https://github.com/pull/30)
+*   **Impact:** Solved developer workflow bottlenecks by enabling dynamic port support for local testing environments.
+*   **Tech:** Python, Web Security, Developer Experience (DX).
+
+### 🎓 [Oppia](https://github.com) & [GSSoC'24](https://github.com)
+*   Contributing to educational accessibility and community-driven open source initiatives.
+
+
 ## 📈 Featured Projects
 * [Urban Mobility AI – LLM for Logistical Analysis](https://github.com/mohsinkhan85090/Urban-Mobility-AI---LLM-for-Logistical-Analysis)  
   AI-powered system leveraging Large Language Models (LLMs) to analyze traffic patterns, optimize logistics, and support smart city decision-making.
