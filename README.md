@@ -246,7 +246,7 @@ Notes & Practical Implementations.
 * [ML-Model-Deployment-with-Docker-Kubernetes-CI-CD](https://github.com)
 * [Movie-Recommendation-System](https://github.com)-->
 
-## 🛠️ Open Source Contributions
+##  Open Source Contributions
 *Active contributor to global organizations, focusing on web standards, security, and numerical libraries.*
 
 ### [Joomla! CMS](https://github.com/joomla/joomla-cms))
