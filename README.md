@@ -248,7 +248,7 @@ Notes & Practical Implementations.
 ##  Open Source Contributions
 *Active contributor to global organizations, focusing on web standards, security, and numerical libraries.*
 
-### [Joomla! CMS](https://github.com/joomla/joomla-cms))
+### [Joomla! CMS](https://github.com/joomla/joomla-cms)
 *   **Feature:** [Support array for image field in schemaorg plugin](https://github.com/pull/47211) 
 *   **Impact:** Enhanced SEO capabilities for the Joomla core. Engaged in extensive 31-comment technical review to ensure enterprise-grade code compatibility.
 *   **Tech:** PHP, CMS Architecture, Schema.org Standards.
