@@ -106,17 +106,19 @@ Engineering scalable applications and intelligent ML systems with real-world imp
 
   
 </p>-->
-📈 DSA Solutions  
-A personal collection of Data Structures & Algorithms problems solved in Java with clean explanations and patterns.  
-🔗 [Explore DSA Repo](https://github.com/mohsinkhan85090/DSA-Solutions)
+## 📚 Learning
 
-📈 Machine Learning  
-Building ML models, NLP pipelines, and end-to-end implementations with practical use cases.  
-🔗 [Explore ML Repo](https://github.com/mohsinkhan85090/Machine-Learning)
+[![DSA](https://img.shields.io/badge/DSA-Java-blue?style=for-the-badge)](https://github.com/mohsinkhan85090/DSA-Repository)
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-Projects-green?style=for-the-badge)](https://github.com/mohsinkhan85090/Machine-Learning)
+[![Deep Learning](https://img.shields.io/badge/Deep_Learning-Active-red?style=for-the-badge)](https://github.com/mohsinkhan85090/Deep-Learning)
 
-📈 Deep Learning (Active 🚀)  
-Currently learning and building projects on Neural Networks, CNNs, and advanced AI systems.  
-🔗 [Explore DL Repo](https://github.com/mohsinkhan85090/Deep-Learning)
+
+
+
+
+
+
+
 
 
 
