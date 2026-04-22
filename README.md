@@ -258,7 +258,6 @@ Notes & Practical Implementations.
 - **[OWASP BLT](https://github.com/OWASP/BLT)** → Enabled dynamic localhost origins  
 - **[Oppia](https://github.com/oppia)** & **GSSoC'24** → Open-source education contributions  
 
----
 
 ## Featured Projects
 
@@ -344,7 +343,6 @@ Notes & Practical Implementations.
 <h4><a href="https://github.com">ML-Model-Deployment-with-Docker-Kubernetes-CI-CD</a></h4>
 <h4><a href="https://github.com">Movie-Recommendation-System</a></h4>-->
 
----
 ## 🌐 Let's Connect
 
 <p align="left">
