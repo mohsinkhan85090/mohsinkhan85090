@@ -107,12 +107,6 @@ Engineering scalable applications and intelligent ML systems with real-world imp
   
 </p>-->
 
-**Focus Areas:**
-
-- [DSA](https://github.com/mohsinkhan85090/DSA-Repository)
-- [Machine Learning](https://github.com/mohsinkhan85090/Machine-Learning)
-- [Deep Learning ](https://github.com/mohsinkhan85090/Deep-Learning)
-
 
 
 <!--<h3 align="left">
@@ -252,25 +246,26 @@ Notes & Practical Implementations.
 * [phishing-Detection](https://github.com)
 * [ML-Model-Deployment-with-Docker-Kubernetes-CI-CD](https://github.com)
 * [Movie-Recommendation-System](https://github.com)-->
+**Focus Areas:**
+- [DSA](https://github.com/mohsinkhan85090/DSA-Repository)
+- [Machine Learning](https://github.com/mohsinkhan85090/Machine-Learning)
+- [Deep Learning ](https://github.com/mohsinkhan85090/Deep-Learning)
+
+
 ##  Open Source Contributions
 
 [Joomla! CMS](https://github.com/joomla/joomla-cms)  
-• Improved Schema.org plugin for better SEO (31+ review discussions)  
+- Improved Schema.org plugin for better SEO (31+ review discussions)  
 
 [stdlib-js](https://github.com/stdlib-js)  
-• Built high-performance `parse-args` CLI utility  
+- Built high-performance `parse-args` CLI utility  
 
 [OWASP BLT](https://github.com/OWASP/BLT)  
-• Enabled dynamic localhost origins for smoother dev workflow  
+- Enabled dynamic localhost origins for smoother dev workflow  
 
 [Oppia](https://github.com/oppia) & GSSoC'24  
-• Contributing to open-source education platforms
+- Contributing to open-source education platforms
 
----
-
-### 🟡 Oppia & GSSoC'24  
-🔗 https://github.com/oppia  
-Contributing to open-source education platforms and community-driven development initiatives.
 
 
 <!--##  Open Source Contributions
