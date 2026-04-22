@@ -106,12 +106,11 @@ Engineering scalable applications and intelligent ML systems with real-world imp
 
   
 </p>-->
-## 📚 Learning
 
-> 🔥 **Focus Areas:**  
-> [DSA](https://github.com/mohsinkhan85090/DSA-Repository) • 
-> [Machine Learning](https://github.com/mohsinkhan85090/Machine-Learning) • 
-> [Deep Learning 🚀](https://github.com/mohsinkhan85090/Deep-Learning)
+**Focus Areas:**  
+[DSA](https://github.com/mohsinkhan85090/DSA-Repository) • 
+[Machine Learning](https://github.com/mohsinkhan85090/Machine-Learning) • 
+ [Deep Learning ](https://github.com/mohsinkhan85090/Deep-Learning)
 
 
 
