@@ -5,8 +5,7 @@
 <h2>Mohsin Khan</h2>
 
 
-Artificial Intelligence & Machine Learning Student | Software Development Engineer.
-Engineering scalable applications and intelligent ML systems with real-world impact.
+Artificial Intelligence & Machine Learning student with a strong foundation in software development, data structures, and scalable system design. Builds intelligent ML solutions and backend systems focused on performance, reliability, and real-world impact.
 
 </div>
 
@@ -246,6 +245,8 @@ Notes & Practical Implementations.
 * [phishing-Detection](https://github.com)
 * [ML-Model-Deployment-with-Docker-Kubernetes-CI-CD](https://github.com)
 * [Movie-Recommendation-System](https://github.com)-->
+## What I Work On
+
 - [DSA](https://github.com/mohsinkhan85090/DSA-Repository)
 - [Machine Learning](https://github.com/mohsinkhan85090/Machine-Learning)
 - [Deep Learning ](https://github.com/mohsinkhan85090/Deep-Learning)
