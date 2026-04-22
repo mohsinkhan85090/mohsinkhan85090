@@ -106,18 +106,13 @@ Engineering scalable applications and intelligent ML systems with real-world imp
 
   
 </p>-->
-## 📚 Learning
+##  Learning
 
-🔲 **DSA Solutions**  
-↳ [Explore Repo](https://github.com/mohsinkhan85090/DSA-Repository)
-
-🔲 **Machine Learning**  
-↳ [Explore Repo](https://github.com/mohsinkhan85090/Machine-Learning)
-
-🔲 **Deep Learning 🚀**  
-↳ [Explore Repo](https://github.com/mohsinkhan85090/Deep-Learning)
-
-
+| Area | Description | Link |
+|------|------------|------|
+| 📈 DSA | Java-based problem solving with patterns & explanations | [Explore](https://github.com/mohsinkhan85090/DSA-Repository) |
+| 🤖 ML | ML models, NLP & end-to-end implementations | [Explore](https://github.com/mohsinkhan85090/Machine-Learning) |
+| 🧠 DL 🚀 | Neural Networks, CNNs & advanced AI (active) | [Explore](https://github.com/mohsinkhan85090/Deep-Learning) |
 
 
 
