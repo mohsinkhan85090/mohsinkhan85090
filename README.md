@@ -109,15 +109,9 @@ Engineering scalable applications and intelligent ML systems with real-world imp
 ## 📚 Learning
 
 <p align="center">
-  <a href="https://github.com/mohsinkhan85090/DSA-Repository">
-    <img src="https://img.shields.io/badge/DSA-Problem%20Solving-blueviolet?style=for-the-badge&logo=java" />
-  </a>
-  <a href="https://github.com/mohsinkhan85090/Machine-Learning">
-    <img src="https://img.shields.io/badge/Machine%20Learning-Projects-00C853?style=for-the-badge&logo=python" />
-  </a>
-  <a href="https://github.com/mohsinkhan85090/Deep-Learning">
-    <img src="https://img.shields.io/badge/Deep%20Learning-Active-FF1744?style=for-the-badge&logo=pytorch" />
-  </a>
+  🟦 <a href="https://github.com/mohsinkhan85090/DSA-Repository"><b>DSA</b></a> &nbsp;&nbsp;&nbsp;
+  🟩 <a href="https://github.com/mohsinkhan85090/Machine-Learning"><b>ML</b></a> &nbsp;&nbsp;&nbsp;
+  🟥 <a href="https://github.com/mohsinkhan85090/Deep-Learning"><b>DL 🚀</b></a>
 </p>
 
 
