@@ -315,7 +315,7 @@ Notes & Practical Implementations.
 *   Contributing to educational accessibility and community-driven open source initiatives.
 -->
 
-##  Featured Projects
+<!--##  Featured Projects
 * [Urban Mobility AI – LLM for Logistical Analysis](https://github.com/mohsinkhan85090/Urban-Mobility-AI---LLM-for-Logistical-Analysis)  
   AI-powered system leveraging Large Language Models (LLMs) to analyze traffic patterns, optimize logistics, and support smart city decision-making.
 
