@@ -343,7 +343,7 @@ Notes & Practical Implementations.
 <h4><a href="https://github.com">ML-Model-Deployment-with-Docker-Kubernetes-CI-CD</a></h4>
 <h4><a href="https://github.com">Movie-Recommendation-System</a></h4>-->
 
-## 🌐 Let's Connect
+<!--## 🌐 Let's Connect
 
 <p align="left">
   <b>📧 Email:</b>
@@ -364,7 +364,7 @@ Notes & Practical Implementations.
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
-
+-->
 
 
 ---
