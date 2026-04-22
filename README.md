@@ -252,8 +252,41 @@ Notes & Practical Implementations.
 * [phishing-Detection](https://github.com)
 * [ML-Model-Deployment-with-Docker-Kubernetes-CI-CD](https://github.com)
 * [Movie-Recommendation-System](https://github.com)-->
+## 🚀 Open Source Contributions
+*Active contributor to global organizations, focusing on web standards, security, and scalable systems.*
 
-##  Open Source Contributions
+---
+
+### 🟣 Joomla! CMS  
+🔗 https://github.com/joomla/joomla-cms  
+**Feature:** Support array for image field in schemaorg plugin  
+**Impact:** Enhanced SEO capabilities for Joomla core with extensive technical review (31+ discussions)  
+**Tech:** PHP • CMS Architecture • Schema.org  
+
+---
+
+### 🟢 stdlib-js  
+🔗 https://github.com/stdlib-js  
+**Feature:** Added `parse-args` CLI utility  
+**Impact:** Built a high-performance argument parser for a core numerical JS/TS library  
+**Tech:** JavaScript • CLI Tooling • Algorithms  
+
+---
+
+### 🔵 OWASP BLT  
+🔗 https://github.com/OWASP/BLT  
+**Feature:** Enabled dynamic localhost origins for development  
+**Impact:** Improved developer workflow by supporting dynamic ports in local environments  
+**Tech:** Python • Web Security • DX  
+
+---
+
+### 🟡 Oppia & GSSoC'24  
+🔗 https://github.com/oppia  
+Contributing to open-source education platforms and community-driven development initiatives.
+
+
+<!--##  Open Source Contributions
 *Active contributor to global organizations, focusing on web standards, security, and numerical libraries.*
 
 ### [Joomla! CMS](https://github.com/joomla/joomla-cms)
@@ -273,7 +306,7 @@ Notes & Practical Implementations.
 
 ### [Oppia](https://github.com) & [GSSoC'24](https://github.com)
 *   Contributing to educational accessibility and community-driven open source initiatives.
-
+-->
 
 ## 📈 Featured Projects
 * [Urban Mobility AI – LLM for Logistical Analysis](https://github.com/mohsinkhan85090/Urban-Mobility-AI---LLM-for-Logistical-Analysis)  
