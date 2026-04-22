@@ -107,10 +107,11 @@ Engineering scalable applications and intelligent ML systems with real-world imp
   
 </p>-->
 
-**Focus Areas:**  
-• [DSA](https://github.com/mohsinkhan85090/DSA-Repository) 
-• [Machine Learning](https://github.com/mohsinkhan85090/Machine-Learning) 
-• [Deep Learning ](https://github.com/mohsinkhan85090/Deep-Learning)
+**Focus Areas:**
+
+- [DSA](https://github.com/mohsinkhan85090/DSA-Repository)
+- [Machine Learning](https://github.com/mohsinkhan85090/Machine-Learning)
+- [Deep Learning ](https://github.com/mohsinkhan85090/Deep-Learning)
 
 
 
@@ -133,7 +134,6 @@ Notes & Practical Implementations.
 
 [![Repo](https://img.shields.io/badge/Machine%20Learning-Python-blue?style=flat-square&logo=python)](https://github.com/mohsinkhan85090/Machine-Learning)
 -->
----
 
 <!--## Featured Projects
 <table>
@@ -254,17 +254,17 @@ Notes & Practical Implementations.
 * [Movie-Recommendation-System](https://github.com)-->
 ##  Open Source Contributions
 
-🟣 [Joomla! CMS](https://github.com/joomla/joomla-cms)  
-→ Improved Schema.org plugin for better SEO (31+ review discussions)  
+[Joomla! CMS](https://github.com/joomla/joomla-cms)  
+• Improved Schema.org plugin for better SEO (31+ review discussions)  
 
-🟢 [stdlib-js](https://github.com/stdlib-js)  
-→ Built high-performance `parse-args` CLI utility  
+[stdlib-js](https://github.com/stdlib-js)  
+• Built high-performance `parse-args` CLI utility  
 
-🔵 [OWASP BLT](https://github.com/OWASP/BLT)  
-→ Enabled dynamic localhost origins for smoother dev workflow  
+[OWASP BLT](https://github.com/OWASP/BLT)  
+• Enabled dynamic localhost origins for smoother dev workflow  
 
-🟡 [Oppia](https://github.com/oppia) & GSSoC'24  
-→ Contributing to open-source education platforms
+[Oppia](https://github.com/oppia) & GSSoC'24  
+• Contributing to open-source education platforms
 
 ---
 
