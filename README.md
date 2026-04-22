@@ -108,9 +108,9 @@ Engineering scalable applications and intelligent ML systems with real-world imp
 </p>-->
 
 **Focus Areas:**  
-[DSA](https://github.com/mohsinkhan85090/DSA-Repository) • 
-[Machine Learning](https://github.com/mohsinkhan85090/Machine-Learning) • 
- [Deep Learning ](https://github.com/mohsinkhan85090/Deep-Learning)
+• [DSA](https://github.com/mohsinkhan85090/DSA-Repository) 
+• [Machine Learning](https://github.com/mohsinkhan85090/Machine-Learning) 
+• [Deep Learning ](https://github.com/mohsinkhan85090/Deep-Learning)
 
 
 
@@ -252,32 +252,19 @@ Notes & Practical Implementations.
 * [phishing-Detection](https://github.com)
 * [ML-Model-Deployment-with-Docker-Kubernetes-CI-CD](https://github.com)
 * [Movie-Recommendation-System](https://github.com)-->
-## 🚀 Open Source Contributions
-*Active contributor to global organizations, focusing on web standards, security, and scalable systems.*
+##  Open Source Contributions
 
----
+🟣 [Joomla! CMS](https://github.com/joomla/joomla-cms)  
+→ Improved Schema.org plugin for better SEO (31+ review discussions)  
 
-### 🟣 Joomla! CMS  
-🔗 https://github.com/joomla/joomla-cms  
-**Feature:** Support array for image field in schemaorg plugin  
-**Impact:** Enhanced SEO capabilities for Joomla core with extensive technical review (31+ discussions)  
-**Tech:** PHP • CMS Architecture • Schema.org  
+🟢 [stdlib-js](https://github.com/stdlib-js)  
+→ Built high-performance `parse-args` CLI utility  
 
----
+🔵 [OWASP BLT](https://github.com/OWASP/BLT)  
+→ Enabled dynamic localhost origins for smoother dev workflow  
 
-### 🟢 stdlib-js  
-🔗 https://github.com/stdlib-js  
-**Feature:** Added `parse-args` CLI utility  
-**Impact:** Built a high-performance argument parser for a core numerical JS/TS library  
-**Tech:** JavaScript • CLI Tooling • Algorithms  
-
----
-
-### 🔵 OWASP BLT  
-🔗 https://github.com/OWASP/BLT  
-**Feature:** Enabled dynamic localhost origins for development  
-**Impact:** Improved developer workflow by supporting dynamic ports in local environments  
-**Tech:** Python • Web Security • DX  
+🟡 [Oppia](https://github.com/oppia) & GSSoC'24  
+→ Contributing to open-source education platforms
 
 ---
 
@@ -308,7 +295,7 @@ Contributing to open-source education platforms and community-driven development
 *   Contributing to educational accessibility and community-driven open source initiatives.
 -->
 
-## 📈 Featured Projects
+##  Featured Projects
 * [Urban Mobility AI – LLM for Logistical Analysis](https://github.com/mohsinkhan85090/Urban-Mobility-AI---LLM-for-Logistical-Analysis)  
   AI-powered system leveraging Large Language Models (LLMs) to analyze traffic patterns, optimize logistics, and support smart city decision-making.
 
