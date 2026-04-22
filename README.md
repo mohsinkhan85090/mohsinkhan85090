@@ -108,14 +108,14 @@ Engineering scalable applications and intelligent ML systems with real-world imp
 </p>-->
 ## 📚 Learning
 
-[![DSA](https://img.shields.io/badge/DSA-Java-blue?style=for-the-badge)](https://github.com/mohsinkhan85090/DSA-Repository)
-[![Machine Learning](https://img.shields.io/badge/Machine_Learning-Projects-green?style=for-the-badge)](https://github.com/mohsinkhan85090/Machine-Learning)
-[![Deep Learning](https://img.shields.io/badge/Deep_Learning-Active-red?style=for-the-badge)](https://github.com/mohsinkhan85090/Deep-Learning)
+🔲 **DSA Solutions**  
+↳ [Explore Repo](https://github.com/mohsinkhan85090/DSA-Repository)
 
+🔲 **Machine Learning**  
+↳ [Explore Repo](https://github.com/mohsinkhan85090/Machine-Learning)
 
-
-
-
+🔲 **Deep Learning 🚀**  
+↳ [Explore Repo](https://github.com/mohsinkhan85090/Deep-Learning)
 
 
 
