@@ -251,8 +251,33 @@ Notes & Practical Implementations.
 - [Machine Learning](https://github.com/mohsinkhan85090/Machine-Learning)
 - [Deep Learning ](https://github.com/mohsinkhan85090/Deep-Learning)
 
-
 ##  Open Source Contributions
+
+- **[Joomla! CMS](https://github.com/joomla/joomla-cms)** → Improved Schema.org plugin (31+ review discussions)  
+- **[stdlib-js](https://github.com/stdlib-js)** → Built high-performance `parse-args` CLI utility  
+- **[OWASP BLT](https://github.com/OWASP/BLT)** → Enabled dynamic localhost origins  
+- **[Oppia](https://github.com/oppia)** & **GSSoC'24** → Open-source education contributions  
+
+---
+
+## Featured Projects
+
+- **[Urban Mobility AI](https://github.com/mohsinkhan85090/Urban-Mobility-AI)** → LLM-based traffic & logistics optimization  
+- **[Violence Detection System](https://github.com/mohsinkhan85090/Violence-Detection-System)** → Real-time CV-based safety monitoring  
+- **[Parking Management](https://github.com/mohsinkhan85090/Parking-management)** → QR-based parking system  
+- **[Lawvia](https://github.com/mohsinkhan85090/Lawvia)** → AI-powered legal chatbot  
+- **[Appointify](https://github.com/mohsinkhan85090/Appointify)** → MERN doctor booking platform  
+- **[muffin](https://github.com/mohsinkhan85090/muffin)** → AI assistant (Gemini + Flask)  
+- **[Monolith to Microservice](https://github.com/mohsinkhan85090/Monolith-to-Microservice-Grievance)** → Cloud-native grievance system  
+- **[Healthcare Management](https://github.com/mohsinkhan85090/HealthCare-Management-System)** → Full-stack healthcare app  
+- **[Yoga AI](https://github.com/mohsinkhan85090/Yoga-Ai)** → AI posture detection system  
+- **[VoiceBrowse](https://github.com/mohsinkhan85090/VoiceBrowse)** → Chrome extension  
+- **[Phishing Detection](https://github.com/mohsinkhan85090/phishing-Detection)** → ML-based phishing classifier  
+- **[ML Deployment](https://github.com/mohsinkhan85090/ML-Model-Deployment-with-Docker-Kubernetes-CI-CD)** → Docker + K8s + CI/CD pipeline  
+- **[Movie Recommender](https://github.com/mohsinkhan85090/Movie-Recommendation-System)** → Personalized recommendation system  
+
+
+<!--##  Open Source Contributions
 
 [Joomla! CMS](https://github.com/joomla/joomla-cms)  
 - Improved Schema.org plugin for better SEO (31+ review discussions)  
@@ -306,7 +331,7 @@ Notes & Practical Implementations.
 * [VoiceBrowse](https://github.com/mohsinkhan85090/VoiceBrowse)- A Chrome extension 
 * [phishing-Detection](https://github.com/mohsinkhan85090/phishing-Detection)-Phishing Detection System
 * [ML-Model-Deployment-with-Docker-Kubernetes-CI-CD](https://github.com/mohsinkhan85090/ML-Model-Deployment-with-Docker-Kubernetes-CI-CD)-Bridge the gap between developing a Machine Learning model and getting that model used by real customers.
-* [Movie-Recommendation-System](https://github.com/mohsinkhan85090/Movie-Recommendation-System)-Movie Recommender System.
+* [Movie-Recommendation-System](https://github.com/mohsinkhan85090/Movie-Recommendation-System)-Movie Recommender System.-->
 <!--<h4><a href="https://github.com">parking-management</a></h4>
 <h4><a href="https://github.com">Lawvia - A Legal Chatbot</a></h4>
 <h4><a href="https://github.com">Appointify</a></h4>
