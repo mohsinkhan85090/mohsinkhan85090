@@ -245,7 +245,7 @@ Notes & Practical Implementations.
 * [phishing-Detection](https://github.com)
 * [ML-Model-Deployment-with-Docker-Kubernetes-CI-CD](https://github.com)
 * [Movie-Recommendation-System](https://github.com)-->
-## What I Work On
+## I Work On
 
 - [DSA](https://github.com/mohsinkhan85090/DSA-Repository)
 - [Machine Learning](https://github.com/mohsinkhan85090/Machine-Learning)
