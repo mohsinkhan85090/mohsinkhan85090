@@ -8,7 +8,6 @@ Artificial Intelligence & Machine Learning student with a strong foundation in s
 </div>
 
 
-
 <!--<h2 align="left">Languages and Tools</h2>
 <p align="center"> 
 
