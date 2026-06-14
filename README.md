@@ -253,8 +253,7 @@ Notes & Practical Implementations.
 - **[OWASP BLT](https://github.com/OWASP/BLT)** → Enabled dynamic localhost origins  
 - **[Oppia](https://github.com/oppia)** & **GSSoC'24** → Open-source education contributions  
 
-
-## Featured Projects
+## Projects
 
 - **[Urban Mobility AI](https://github.com/mohsinkhan85090/Urban-Mobility-AI)** → LLM-based traffic & logistics optimization  
 - **[Violence Detection System](https://github.com/mohsinkhan85090/Violence-Detection-System)** → Real-time CV-based safety monitoring  
