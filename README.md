@@ -6,8 +6,6 @@
 Artificial Intelligence & Machine Learning student with a strong foundation in software development, data structures,Machine Learning and scalable system design. Builds intelligent ML solutions and backend systems focused on performance, reliability, and real-world impact.
 
 </div>
-
-
 <!--<h2 align="left">Languages and Tools</h2>
 <p align="center"> 
 
