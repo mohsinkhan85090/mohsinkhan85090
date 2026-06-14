@@ -1,6 +1,6 @@
 [![Mohsin Khan](https://github.com/mohsinkhan85090/mohsinkhan85090/blob/main/3.png)](https://mohsinkhan85090.github.io/portfolio)[Visit My Portfolio 🔗](https://mohsinkhan85090.github.io/portfolio)
 <div align="center">
-<h3>Mohsin Khan</h3>
+<h1>Mohsin Khan</h1>
 
 
 Artificial Intelligence & Machine Learning student with a strong foundation in software development, data structures,Machine Learning and scalable system design. Builds intelligent ML solutions and backend systems focused on performance, reliability, and real-world impact.
