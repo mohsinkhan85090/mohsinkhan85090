@@ -247,7 +247,7 @@ Notes & Practical Implementations.
 - [Machine Learning](https://github.com/mohsinkhan85090/Machine-Learning)
 - [Deep Learning ](https://github.com/mohsinkhan85090/Deep-Learning)
 
-## 📚 Publication
+##  Publication
 
 ### Future Trajectories in Digital Twin Research  
 **Architectures, Data Pipelines, and Security Challenges for Communication and Networked Systems**
@@ -257,7 +257,7 @@ Notes & Practical Implementations.
 -  Authors: Mohsin Khan 
 
 📄 **Publication Proof (PDF):**  
-👉 [View Manuscript PDF](./Digital%20Twin_draft_Proof_hi(1).pdf)
+👉 [View Manuscript PDF](./Digital_Twin_draft_Proof_hi(1).pdf)
 
 > This manuscript presents a structured study on Digital Twin systems, focusing on hybrid modeling, synchronization challenges, security risks, and standardization gaps in next-generation communication networks.
 
