@@ -258,7 +258,7 @@ Notes & Practical Implementations.
 -  Authors: Mohsin Khan 
 
 📄 **Publication Proof (PDF):**  
-👉 [View Manuscript PDF](./Digital Twin_draft_Proof_hi.pdf)
+👉 [View Manuscript PDF](./Digital_Twin_draft_Proof_hi.pdf)
 
 > This manuscript presents a structured study on Digital Twin systems, focusing on hybrid modeling, synchronization challenges, security risks, and standardization gaps in next-generation communication networks.
 
