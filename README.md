@@ -6,7 +6,6 @@ Artificial Intelligence & Machine Learning student with a strong foundation in s
 </div>
 <!--<h2 align="left">Languages and Tools</h2>
 <p align="center"> 
-
 <img src="https://img.shields.io/badge/-JavaScript-233233?style=flat-square&logo=javascript&logoColor=23F7DF1E">
 <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=Python&logoColor=ffdd54">
