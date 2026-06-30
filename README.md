@@ -224,7 +224,6 @@ Notes & Practical Implementations.
     </td>
   </tr>
 
-
 </table> -->
 
 <!--### Featured Projects
