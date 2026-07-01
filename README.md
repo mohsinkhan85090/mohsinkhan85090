@@ -175,7 +175,6 @@ Notes & Practical Implementations.
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
       </p>
     </td>
-
   </tr>
   <tr>
   <td width="50%" valign="top">
