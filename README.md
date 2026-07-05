@@ -44,7 +44,6 @@ Artificial Intelligence & Machine Learning student with a strong foundation in s
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
   </a> 
 
-
 <!-- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> -->
 <!-- </a> 
