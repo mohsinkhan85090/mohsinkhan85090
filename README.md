@@ -11,7 +11,6 @@ Artificial Intelligence & Machine Learning student with a strong foundation in s
 <img src="https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=Python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/-React-232023?style=flat-square&logo=react&logoColor=61DBFB">
 <img src="https://img.shields.io/badge/-java-orange?style=flat-square&logo=Java">
-
 <!--<img src="https://img.shields.io/badge/-C++-044F88?style=flat-square&logo=c%2B%2B">
 <img src="https://img.shields.io/badge/-C-1A4674?style=flat-square&logo=c">
 <img src="https://img.shields.io/badge/-npm-darkred?style=flat-square&logo=npm">
