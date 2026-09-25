@@ -266,8 +266,8 @@ Notes & Practical Implementations.
 
 ## Projects
 
-- **[Urban Mobility AI](https://github.com/mohsinkhan85090/Urban-Mobility-AI---LLM-for-Logistical-Analysis)**→ LLM-based traffic & logistics optimization  
-- **[Violence Detection System](https://github.com/mohsinkhan85090/Violence-Detection-System)** → Real-time CV-based safety monitoring  
+- [Urban Mobility AI](https://github.com/mohsinkhan85090/Urban-Mobility-AI---LLM-for-Logistical-Analysis)→ LLM-based traffic & logistics optimization  
+- **[Violence Detection System](https://github.com/mohsinkhan85090/Violence_Detection))** → Real-time CV-based safety monitoring  
 - **[Parking Management](https://github.com/mohsinkhan85090/Parking-management)** → QR-based parking system  
 - **[Lawvia](https://github.com/mohsinkhan85090/Lawvia)** → AI-powered legal chatbot  
 - **[Appointify](https://github.com/mohsinkhan85090/Appointify)** → MERN doctor booking platform  
