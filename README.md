@@ -236,6 +236,7 @@ Notes & Practical Implementations.
 * [ML-Model-Deployment-with-Docker-Kubernetes-CI-CD](https://github.com)
 * [Movie-Recommendation-System](https://github.com)-->
  **Resume:** [View My Resume](./Mohsin_Khan_AIML_Intern_Resume.pdf)
+ **Certificate:** [View My Certificate](./Mohsin_Khan_AIML_Intern_Resume.pdf)
 ## I Work On
 
 - [DSA](https://github.com/mohsinkhan85090/DSA-Repository)
